@@ -1,0 +1,1 @@
+A series of pre determined manoeuvres by reference to flight instruments with specified potection from obstacles from initial approach fix (IAF) or where applicable from the beginning of a defined arrival route to a point from chich a landing can be completed and thereafter,if a landing is not completed,to a position at chich holding or en route obstacle clearance criteria apply.

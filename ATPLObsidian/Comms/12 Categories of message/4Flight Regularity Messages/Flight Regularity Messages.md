@@ -1,0 +1,4 @@
+They relate to the general operation of the aircraft. 
+They include messages about scheduling, servicing, maintenance and instructions to the operator and handling agents about changes in requierements. For example,if a large passenger aircraft needs to divert to an alternate destination a lot of organising mustbe done to arrange aircraft parking,fuelling,unloading and passenger handling
+
+In a multi-crew aicraft,one member an use the econd radio to call the company or the handling agent at the alternate to as them to make arrangements. At smaller airports there may not be a separated frequency fr a handling company; therefore it may be necesary to ask the ATSU to check availability of services. Most controllers are happy to help or pass along a message,if workload allows.

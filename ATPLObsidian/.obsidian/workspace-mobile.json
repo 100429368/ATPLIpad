@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "93091613b029a111",
+    "type": "split",
+    "children": [
+      {
+        "id": "4848e2da51e9a82c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c7d1f0871e0fed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Human performance/4 The amosphere/The atmosphere.canvas",
+                "viewState": {
+                  "x": 2082.2586676935666,
+                  "y": 1447.4435309775763,
+                  "zoom": -1.949858937775853
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The atmosphere"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29ca2aca00404828",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0d3c116de10e196e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c798f7c2787ea92f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "4d9a443d249b355d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "01bb9ccb2fff12dc",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "0016c5fe427f1797",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "856f504321f1cd05",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f8d123058bb5e406",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Human performance/4 The amosphere/The atmosphere.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2f55671e3106f48b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Tropopause.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "2869b72036ddfd20",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Tropopause.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "49c7d1f0871e0fed",
+  "lastOpenFiles": [
+    "Human performance/4 The amosphere/The atmosphere.canvas",
+    "Human performance/4 The amosphere/Untitled.base",
+    "Human performance/4 The amosphere/3 The atmosphere/Cabin presurisation.md",
+    "Human performance/4 The amosphere/3 The atmosphere/Blood oxygen level and partial pressure.md",
+    "IMAGES/Pasted image 20261110203902.png",
+    "Human performance/4 The amosphere/6 Hyperventilation/Hyperventilation.md",
+    "Human performance/4 The amosphere/5 Time of useful consciousness/Time of useful consciousness.md",
+    "Human performance/4 The amosphere/6 Hyperventilation",
+    "IMAGES/Pasted image 20261110202711.png",
+    "Human performance/4 The amosphere/4 Hypoxia/Equivalent Altitudes.md",
+    "IMAGES/Pasted image 20261110201842.png",
+    "Human performance/4 The amosphere/4 Hypoxia/Stages of Hypoxia.md",
+    "IMAGES/Pasted image 20261110201720.png",
+    "Human performance/4 The amosphere/4 Hypoxia/Symptoms of Hypoxia.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Types of hypoxia/Hypoxic Hypoxia.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Physiological Thresholds and Stages of Hypoxia.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Main symptoms to watch out four yourself.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Types of hypoxia/Alternative Forms of Hypoxia.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Types of hypoxia/Anaemic Hypoxia.md",
+    "Human performance/4 The amosphere/4 Hypoxia/Types of hypoxia",
+    "Human performance/2 the human organism/The human organism.canvas",
+    "Human performance/2 the human organism/1 Basic body architecture/Nervous system.md",
+    "Human performance/2 the human organism/2 Human cells/Human cells.md",
+    "Human performance/4 The amosphere/3 The atmosphere/The Atmosphere.md",
+    "Human performance/4 The amosphere/5 Time of useful consciousness",
+    "Human performance/4 The amosphere/4 Hypoxia",
+    "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",
+    "Human performance/4 The amosphere/3 The atmosphere/2 Control of Respiration",
+    "Human performance/4 The amosphere/3 The atmosphere/1 Anatomy of the Respiratory System",
+    "Human performance/2 the human organism/Sada.canvas",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Heart attack.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Heart Attack.md",
+    "Human performance/3 Cardiovascular System/1 The cardiovascular system/General Arrangement of the cardiovascular Syste.m.md",
+    "Human performance/3 Cardiovascular System/4 The heart/Blood pressure.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Hypertension.md",
+    "Human performance/3 Cardiovascular System/6 appendix 1 Meassuring blood pressure/Measuring blood pressure.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Summary.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Measures to preserve cardiovascular Health.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Angina.md",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart/Coronary Artery Disease.md",
+    "IMAGES/Pasted image 20261110172941.png",
+    "IMAGES/Pasted image 20261110172929.png",
+    "IMAGES/Pasted image 20261110172535.png",
+    "IMAGES/Pasted image 20261110170755.png",
+    "IMAGES/Pasted image 20261110163729.png",
+    "Human performance/3 Cardiovascular System/6 appendix 1 Meassuring blood pressure",
+    "Human performance/3 Cardiovascular System/5 Disorders of the heart",
+    "Human performance/3 Cardiovascular System/4 The heart",
+    "IMAGES/Pasted image 20261109124659.png",
+    "Meteorologia/1  The atmosphere/The atmosphere.canvas",
+    "Gnav/Temas 1 a 5.canvas",
+    "Human performance/2 the human organism/Human organism.canvas"
+  ]
+}

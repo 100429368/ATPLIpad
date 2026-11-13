@@ -1,0 +1,1 @@
+A station in the aeronautival mobile service located onland,in certain instances,on board of a ship or on a platform at sea.

@@ -1,0 +1,1 @@
+A distance of 4NM or less from landing runway
