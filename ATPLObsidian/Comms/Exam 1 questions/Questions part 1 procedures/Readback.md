@@ -1,0 +1,1 @@
+Say everything the atc said in the same order. Including squawk

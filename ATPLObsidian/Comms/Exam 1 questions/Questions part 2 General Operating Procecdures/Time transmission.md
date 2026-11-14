@@ -1,0 +1,1 @@
+Only transmit minutes if there is no hour confussion

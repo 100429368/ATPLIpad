@@ -5,4 +5,15 @@ Conventional ASIS in light aircraft have three coloured arcs. The white arc show
 The green arcis the normaloperating spee range. It is limited at the lower end by $V_{S1}$ which is the minimum steady flight speed in a specified configuration.
 
 The upper limit of the green arc is $V_{NO}$, which is the maximum operating airspeed.
-The yeellow arc is the caution speed range,which may only be used in smooth air and with caution. The yellow arc extends from$V_{NO}$ at the higher end. $$
+The yeellow arc is the caution speed range,which may only be used in smooth air and with caution. The yellow arc extends from$V_{NO}$ at the lower end, to $V_{NE}$ at the higher end. $V_{NE}$ is the never exceedairspeed. Above $V_{NE}$ the inccrease in dynamic pressure acting on the airframe may exceedthe design limitations,resulting in structural failure.
+
+
+RECUERDO:
+$IAS=\frac{1}{2} \rho TAS^2$
+
+Sustentación:
+
+$L=Pd\cdot s\cdot C_{L}$
+
+
+

@@ -1,0 +1,1 @@
+Simultaneous transmissions happened so you have to repeat the message.

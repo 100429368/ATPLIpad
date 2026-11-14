@@ -1,0 +1,1 @@
+What is said if a transmission was incorrect.

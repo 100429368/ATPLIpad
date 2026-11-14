@@ -1,0 +1,1 @@
+Should be pressed when asked SQUAWK IDENT

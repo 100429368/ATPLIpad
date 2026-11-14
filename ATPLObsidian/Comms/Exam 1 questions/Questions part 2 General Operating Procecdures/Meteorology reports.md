@@ -1,0 +1,1 @@
+During climb-out phase are each 30secs

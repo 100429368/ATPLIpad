@@ -9,4 +9,4 @@ $\sqrt{\frac{2(P_t -p P)}{\rho _0}} = EAS$
 The calibrated airspeed of an aircraft corrected for adiabatic compressible flow for the particular altitude. Equivalent aairspeed is equal to calibrated airspeed in standard atmosphere at sea level.
 
 
-[[TAS]]
+[[Priniciples of flight/2 Air, Atmosphere and Airspeed/6 Speeds Obtained from Dynamic Pressure/TAS]]

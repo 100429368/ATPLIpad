@@ -1,0 +1,1 @@
+Purpose of spelling is avoid problems with pronunciation

@@ -1,0 +1,5 @@
+Is th temperature measured by a sensor on a moving aircraft. Whenever a probe is placed in a stream of moving air,some of the air impacting the probe is slowing down. In doing so,some of its kinetic energy is converted to pressure energy and some of it is converted to heat. This latter effect is known as adiabatic heating.
+
+TAT is the maximum temperature that can be achieved by bringing moving air to a completestop relative to the point of measurement. The air might be stationary relative to the Earth,bit it has a high velocity relative to a fast-moving aircraft. Bringing it to a completestop involves changing a lot of kinetc energy into other forms of energy,so the TAT is always higher than the SAT. The difference is called **ram rise**
+
+TAS can be calculated from TAT. This is important for ADC(computers)

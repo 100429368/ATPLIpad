@@ -1,0 +1,1 @@
+$$CAS= TAS\sqrt{\frac{\rho}{\rho _{calibrated\space at \space MSL}}}$$

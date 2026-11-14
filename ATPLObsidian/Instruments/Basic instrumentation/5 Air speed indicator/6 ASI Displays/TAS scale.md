@@ -1,0 +1,1 @@
+Some airspeed indicators have an additionalrotating TAS scale. The pilod adjust the ASI by setting the approximate current pressure altitudeagainst the temperature in the pressure altitude window.

@@ -1,0 +1,1 @@
+If one AoA sensor is rejected,the system continues using the remaining valid data. If two or more sensors are rejected,then the system reverts to Alternate Law. In this mode,protecions are reduced and the flight envelope becomes more restricted.

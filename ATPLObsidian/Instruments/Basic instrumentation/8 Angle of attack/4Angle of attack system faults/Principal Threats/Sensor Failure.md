@@ -1,0 +1,1 @@
+AoA sensors are delicate. they are susceptible to damange when handled and can fail in flight for non icing related reasons.
