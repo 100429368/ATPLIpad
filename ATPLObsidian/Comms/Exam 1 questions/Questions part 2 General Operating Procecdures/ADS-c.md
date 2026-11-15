@@ -1,0 +1,2 @@
+Automatic dependent surveliance- contract sends automatic information position ,altitude ,speed,meteorological data.
+In case of error,you should send the meteorological major inconveniences such as moderate to severe icing via voice.

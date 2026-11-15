@@ -1,0 +1,1 @@
+When you are waiting for a takeoff and you are behind someone, they will ask you if you can see the other plane, and after confirmation, you will be queued behind and you have to confirm again

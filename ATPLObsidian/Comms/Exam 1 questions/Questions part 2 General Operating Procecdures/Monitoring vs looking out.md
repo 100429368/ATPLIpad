@@ -1,0 +1,1 @@
+Monitoring is when you are checking an instrument,looking out when you are checking for other planes with visual approaching,ie traffic

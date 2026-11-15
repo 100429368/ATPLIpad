@@ -1,0 +1,1 @@
+It is used to authorize to proceed under specified conditions.

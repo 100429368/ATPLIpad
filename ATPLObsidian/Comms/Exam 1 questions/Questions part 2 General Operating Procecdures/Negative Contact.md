@@ -1,0 +1,1 @@
+When you are told that there is traffic,and you dont see it, say negative contact

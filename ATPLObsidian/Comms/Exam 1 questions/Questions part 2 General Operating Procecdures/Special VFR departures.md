@@ -1,0 +1,1 @@
+Leave control zone *special VFR* via (route) at (figures) ft/ or above /below - instructions 

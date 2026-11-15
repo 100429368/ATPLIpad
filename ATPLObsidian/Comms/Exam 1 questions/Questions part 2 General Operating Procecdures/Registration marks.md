@@ -1,0 +1,1 @@
+Cannot use things that cause errors like QNH, TTT or SOS,but you could use VOR
