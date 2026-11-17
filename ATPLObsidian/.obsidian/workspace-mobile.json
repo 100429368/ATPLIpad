@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/Exam 1 questions/Geodetic Latitude.md",
+                "file": "Instruments/Basic instrumentation/Test temas 1 a 8/Higher or lower than ISA in your reference.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geodetic Latitude"
+              "title": "Higher or lower than ISA in your reference"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gnav/Exam 1 questions/Geodetic Latitude.md",
+            "file": "Instruments/Basic instrumentation/Test temas 1 a 8/Higher or lower than ISA in your reference.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "f394f3218914247d",
   "lastOpenFiles": [
+    "Gnav/Exam 1 questions/Geodetic Latitude.md",
     "Gnav/8 Change of latitude and longitude",
     "Gnav/Ejercicios2 distancia/Ejercicio 7.md",
     "Gnav/7 Latitude and Longitude/2 Units of Measurements/Degreees Minutes Seconds.md",
@@ -194,7 +195,6 @@
     "Gnav/Exam 1 questions/Circumference of the earth.md",
     "Gnav/Exam 1 questions/Diameter of the Earth.md",
     "Gnav/Exam 1 questions/Distance between points.md",
-    "Gnav/Exam 1 questions/Geodetic Latitude.md",
     "Gnav/Exam 1 questions/Geodetic Longitude.md",
     "Gnav/Exam 1 questions/Elipsoid WGR 84.md",
     "Gnav/Exam 1 questions/Geoid.md",
@@ -221,7 +221,6 @@
     "IMAGES/Pasted image 20261115101404.png",
     "IMAGES/Pasted image 20261115101204.png",
     "IMAGES/Pasted image 20261115101149.png",
-    "Gnav/Exam 1 questions",
     "IMAGES/Pasted image 20261114192643.png",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Human performance/2 the human organism/The human organism.canvas",
