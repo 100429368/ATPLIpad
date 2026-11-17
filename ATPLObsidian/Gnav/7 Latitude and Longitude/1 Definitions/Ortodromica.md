@@ -1,0 +1,1 @@
+Distancia minima entre dos puntos de la tierra pero no es constante en la dirección

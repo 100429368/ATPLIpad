@@ -1,0 +1,1 @@
+Que la tierra esté achatada en los polos supone que,cuando hacemos los diferenciales, cercano al ecuador será menos de 60NM/grado

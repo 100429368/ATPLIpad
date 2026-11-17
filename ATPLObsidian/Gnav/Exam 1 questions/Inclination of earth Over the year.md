@@ -1,0 +1,1 @@
+The inclination of the axis of the Earth with regards to the orbit of the Earth aroud the Sun is the reason of fluctuating isolation and different periods of  daylight durig a full year.![[Pasted image 20261115101404.png]]

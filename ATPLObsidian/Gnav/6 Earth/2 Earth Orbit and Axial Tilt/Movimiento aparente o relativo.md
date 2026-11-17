@@ -1,0 +1,1 @@
+Es la rotación clockwise, como la rotación del sol

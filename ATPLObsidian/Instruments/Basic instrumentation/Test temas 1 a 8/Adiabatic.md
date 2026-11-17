@@ -1,0 +1,1 @@
+It doesnt change energy to heat nor calorific energy 

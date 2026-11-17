@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d3e8d99bb32dd27",
+        "id": "565ac4e7eb5e6da8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c587cc30a9e1ab8",
+            "id": "f394f3218914247d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/RECLEARED.md",
-                "mode": "source",
+                "file": "Gnav/Exam 1 questions/Geodetic Latitude.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RECLEARED"
-            }
-          },
-          {
-            "id": "1505479afc41b852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Readability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readability"
+              "title": "Geodetic Latitude"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +105,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "856f504321f1cd05",
@@ -133,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Readability.md",
+            "file": "Gnav/Exam 1 questions/Geodetic Latitude.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,60 +174,60 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1505479afc41b852",
+  "active": "f394f3218914247d",
   "lastOpenFiles": [
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Readback.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Request taxi.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/RECLEARED.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Flight level changes.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Special VFR departures.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Notification phase LOG ON.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Names abreviation.md",
+    "Gnav/8 Change of latitude and longitude",
+    "Gnav/Ejercicios2 distancia/Ejercicio 7.md",
+    "Gnav/7 Latitude and Longitude/2 Units of Measurements/Degreees Minutes Seconds.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 4 Rutas con diferencia 180º PUNTOS ANTIPODAS.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 5.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 6.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Central Datums.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 2.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 3.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Right Angled Graticule.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Untitled.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Positions.md",
+    "Gnav/Ejercicios1 vor y rates/Como resolver ejercicios de distancias.md",
+    "Gnav/Ejercicios2 distancia/Ejercicio 1.md",
+    "Gnav/Exam 1 questions/60NMpor grado.md",
+    "Gnav/Exam 1 questions/Circumference of the earth.md",
+    "Gnav/Exam 1 questions/Diameter of the Earth.md",
+    "Gnav/Exam 1 questions/Distance between points.md",
+    "Gnav/Exam 1 questions/Geodetic Latitude.md",
+    "Gnav/Exam 1 questions/Geodetic Longitude.md",
+    "Gnav/Exam 1 questions/Elipsoid WGR 84.md",
+    "Gnav/Exam 1 questions/Geoid.md",
+    "Gnav/Exam 1 questions/Inclination of earth Over the year.md",
+    "Gnav/Exam 1 questions/Ins.md",
+    "Gnav/Exam 1 questions/Longitudinal difference between two points.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Loxodromica.md",
+    "Gnav/Ejercicios2 distancia",
+    "Gnav/7 Latitude and Longitude/6 Antipodes",
+    "Gnav/7 Latitude and Longitude/5 Defining Positions",
+    "Gnav/7 Latitude and Longitude/4 Longitude",
+    "Gnav/7 Latitude and Longitude/3 Latitude",
+    "Gnav/7 Latitude and Longitude/2 Units of Measurements",
+    "Gnav/7 Latitude and Longitude/1 Definitions",
+    "Gnav/7 Latitude and Longitude",
+    "IMAGES/Pasted image 20261116164233.png",
+    "Gnav/Temas 1 a 5.canvas",
+    "IMAGES/Pasted image 20261116111025.png",
+    "Instruments/Basic instrumentation/Test temas 1 a 8",
+    "IMAGES/Pasted image 20261115120056.png",
+    "IMAGES/Pasted image 20261115113717.png",
+    "IMAGES/Pasted image 20261115111850.png",
+    "IMAGES/Pasted image 20261115102601.png",
+    "IMAGES/Pasted image 20261115101404.png",
+    "IMAGES/Pasted image 20261115101204.png",
+    "IMAGES/Pasted image 20261115101149.png",
+    "Gnav/Exam 1 questions",
     "IMAGES/Pasted image 20261114192643.png",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Elements of position report.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Maximum transmission time.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Traffic.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/TCAS RA.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Unable.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Understanding.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/UNABLE.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Radio check.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/SSR equipement capabilites.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/RESET SQUAWK.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/ATIS.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Cleared.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Negative Contact.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/PBN.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Readability.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Squawk.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/When given traffic information.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Waiting between calls.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/Log on on CPDLC.md",
-    "IMAGES/Pasted image 20261114122729.png",
-    "IMAGES/Pasted image 20261114122521.png",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures",
-    "Instruments/Basic instrumentation/8 Angle of attack/4Angle of attack system faults/Principal Threats",
-    "IMAGES/Pasted image 20261113202428.png",
-    "IMAGES/Pasted image 20261113202345.png",
-    "IMAGES/Pasted image 20261113202256.png",
-    "IMAGES/Pasted image 20261113202054.png",
-    "IMAGES/Pasted image 20261113201606.png",
-    "Instruments/Basic instrumentation/8 Angle of attack/4Angle of attack system faults",
-    "Instruments/Basic instrumentation/8 Angle of attack/3 Angle of attack Displays",
-    "Instruments/Basic instrumentation/8 Angle of attack/2 Sensing angle of attack",
-    "Instruments/Basic instrumentation/8 Angle of attack/1 Introduction",
-    "Instruments/Basic instrumentation/8 Angle of attack",
-    "IMAGES/Pasted image 20261113200805.png",
-    "IMAGES/Pasted image 20261113200205.png",
-    "Instruments/Basic instrumentation/7 Temperature/1 Temperature/Definitions",
-    "Instruments/Basic instrumentation/6 Machmeter/5 CAS, TAS and Mach Number Relationship/Non standard conditions",
-    "Instruments/Basic instrumentation/7 Temperature/4 Methods of Temperature Measurement",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Human performance/2 the human organism/The human organism.canvas",
     "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",
     "Human performance/2 the human organism/Sada.canvas",
     "Meteorologia/1  The atmosphere/The atmosphere.canvas",
-    "Gnav/Temas 1 a 5.canvas",
     "Human performance/2 the human organism/Human organism.canvas"
   ]
 }

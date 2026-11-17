@@ -1,0 +1,1 @@
+The irregular shape based on the surface of the oceans influenced  only by gravity and centrifugal force

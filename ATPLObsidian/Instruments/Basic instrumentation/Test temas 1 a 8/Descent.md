@@ -1,0 +1,1 @@
+during descent, if the static pressure hole gets blocked , the instrument will stay with the same measure.

@@ -1,0 +1,1 @@
+In sensitive altimeters,it is used to increase the accuracy of the altimeter

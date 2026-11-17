@@ -1,0 +1,1 @@
+It is an elipsoid that is streched north-south,then distances from 0,0,0,0 to the antipodas are shorter via the poles

@@ -1,0 +1,1 @@
+Are more likely to be found at high LATITUDES (pal norte)

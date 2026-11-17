@@ -1,0 +1,1 @@
+Altitude coresponding to the current level in ISA conditions . A constant  isobaric surface  is always equivalent  to a constant pressure altitude.

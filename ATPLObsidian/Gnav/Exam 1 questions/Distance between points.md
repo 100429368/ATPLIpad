@@ -1,0 +1,1 @@
+When given a distance between two points, calculate the NM then multiply by cos(lat). This is because there all great circles when we divide earth like an orange,but the circles dont have the same area when we divide it with paralell horizontal lines.

@@ -1,0 +1,1 @@
+Is the layer of fluid that TOUCHES the plane itself. Pitot is outside of it.

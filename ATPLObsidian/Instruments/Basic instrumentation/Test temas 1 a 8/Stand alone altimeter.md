@@ -1,0 +1,1 @@
+The position error variates with the  indicated speed. It is caused by  turbulences in the air ,then it increases when speed increases
