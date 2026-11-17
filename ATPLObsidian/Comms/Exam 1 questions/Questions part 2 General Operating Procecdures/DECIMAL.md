@@ -1,0 +1,1 @@
+No se omite nunca en frecuencias la palabra decimal, aunque no haya confusion

@@ -1,0 +1,1 @@
+The pressure source is static and its converted into a digital signal by a transducer

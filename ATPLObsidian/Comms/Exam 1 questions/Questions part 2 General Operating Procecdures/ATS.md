@@ -1,9 +1,9 @@
 Air traffic services
 
-CONTROL
+CONTROL - cambios de nivel 
 APPROACH
 RADAR
-DELIVERY
+DELIVERY - information prior to the flight - clearances to aircraft prior departure
 DEPARTURE
 ARRIVAL 
 DIRECTOR

@@ -1,0 +1,1 @@
+Altimeter setting so that the altimeter on the ground at the aerodrome reference point, reads the aerodrome elevation

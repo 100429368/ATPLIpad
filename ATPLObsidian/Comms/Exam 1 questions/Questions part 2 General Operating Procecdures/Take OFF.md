@@ -1,0 +1,1 @@
+To acknowledge take off clearance only

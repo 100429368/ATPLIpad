@@ -5,3 +5,6 @@
 5 - perfectlly readable
 
 You dont need to say the frequency you are speaking on 
+
+RADIO CHECK y sino 
+HOW DO YOU READ? 

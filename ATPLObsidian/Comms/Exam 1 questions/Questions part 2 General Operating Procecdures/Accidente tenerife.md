@@ -1,0 +1,1 @@
+ruido en la frecuencia, ambos hablando al mismo tiempo.

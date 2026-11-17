@@ -1,0 +1,1 @@
+you are supposed to continue tyo fly in visual meteorological conditions and land at the nearest suitable aerodrome

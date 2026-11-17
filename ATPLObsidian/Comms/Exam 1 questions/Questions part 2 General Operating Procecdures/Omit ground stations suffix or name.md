@@ -1,0 +1,1 @@
+Only when communication has been estabilished and it is assured there will be no confussion

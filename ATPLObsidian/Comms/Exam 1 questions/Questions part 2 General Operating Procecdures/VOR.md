@@ -1,0 +1,1 @@
+Se dice VOR, nunca letra a letra

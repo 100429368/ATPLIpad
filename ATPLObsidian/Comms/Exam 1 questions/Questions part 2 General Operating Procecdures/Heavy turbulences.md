@@ -1,0 +1,1 @@
+The word HEAVY shall be included immediately after the aircraft call sign in the initial radiotelephony contact between aircraft and ATS units. This is necessary for separation purpouses
