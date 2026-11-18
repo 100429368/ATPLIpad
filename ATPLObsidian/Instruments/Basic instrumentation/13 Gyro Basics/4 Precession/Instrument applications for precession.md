@@ -1,0 +1,1 @@
+Using two gimbal gyros allows the ac to manoeuvre without disturbing the orientation of the gyro. This gives us a fixed datum for measing attitude or heading buut it gives us no direct measure of the rate or change. 

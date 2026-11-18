@@ -6,3 +6,6 @@ Instrument error
 Time lag
 Position error
 
+It uses TWO STATIC PRESSURE VALUES
+
+When static is blocked, the needle will turn to 0.

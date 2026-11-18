@@ -1,0 +1,1 @@
+means the magnet and heading card assembly

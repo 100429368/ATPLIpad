@@ -1,0 +1,1 @@
+At high pitch angles the directreading compass doesnot provie a reliable heading indiction.

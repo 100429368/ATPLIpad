@@ -1,0 +1,1 @@
+Space gyros are a type of displaceent gyro because they are used to provide a datum for measuring the angular displacement of the vehicle that is carrying then.

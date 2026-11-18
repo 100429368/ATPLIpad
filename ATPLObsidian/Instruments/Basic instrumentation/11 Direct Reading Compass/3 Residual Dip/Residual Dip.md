@@ -1,0 +1,3 @@
+Tokeep the compass card and its magnet horizontal,the card must be free to pivot The ivot points at the very top of the compass card,so the card acts as a pendulum.When tilted,the cards centre of graity moves outwards from the pivot axis,ths provides a restoring force with returns the card to level.
+
+Magnetic dip causesa pul gorce on the end of the compass card nearest to the nearest pole.Becaue of direct reading compasses arelavelled in reverse,this means that magnetic dip ulls down the label fromthe furthest pole![[Pasted image 20261118182543.png]]
