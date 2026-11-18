@@ -8,20 +8,81 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f394f3218914247d",
+            "id": "3c3534bde80cca51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 1 a 8/Higher or lower than ISA in your reference.md",
-                "mode": "preview",
+                "file": "Gnav/8 Change of latitude and longitude/Wind Exercises cheatsheet.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Higher or lower than ISA in your reference"
+              "title": "Wind Exercises cheatsheet"
+            }
+          },
+          {
+            "id": "0d026b19fc807b2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Gnav/8 Change of latitude and longitude/Wind exercises cheatsheet Dibujo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Wind exercises cheatsheet Dibujo"
+            }
+          },
+          {
+            "id": "ca5510dc78c3de18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 1 viento.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ejercicio 1 viento"
+            }
+          },
+          {
+            "id": "7aa78d9ce71079b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 2 viento.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ejercicio 2 viento"
+            }
+          },
+          {
+            "id": "65cbed90478d6e04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ejercicio 4 viento"
+            }
+          },
+          {
+            "id": "4d9260492482c687",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Gnav/8 Change of latitude and longitude/Wind exercises cheatsheet Dibujo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Wind exercises cheatsheet Dibujo"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +178,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instruments/Basic instrumentation/Test temas 1 a 8/Higher or lower than ISA in your reference.md",
+            "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,46 +235,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f394f3218914247d",
+  "active": "65cbed90478d6e04",
   "lastOpenFiles": [
-    "Gnav/Exam 1 questions/Geodetic Latitude.md",
-    "Gnav/8 Change of latitude and longitude",
-    "Gnav/Ejercicios2 distancia/Ejercicio 7.md",
-    "Gnav/7 Latitude and Longitude/2 Units of Measurements/Degreees Minutes Seconds.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 4 Rutas con diferencia 180º PUNTOS ANTIPODAS.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 5.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 6.md",
+    "Gnav/8 Change of latitude and longitude/Wind exercises cheatsheet Dibujo.md",
+    "Gnav/8 Change of latitude and longitude/Wind Exercises cheatsheet.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md",
+    "Gnav/8 Change of latitude and longitude/Magnetic Course dibujo.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 2 viento.md",
+    "Gnav/8 Change of latitude and longitude/Magnetic heading.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 3 viento.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 1 viento.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento",
+    "Gnav/9 Time/1 Ways of measuring time/Apparent and Mean Solar Time.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Bearing courses.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Bearing code.md",
+    "Gnav/9 Time/1 Ways of measuring time/Time Measurements.md",
+    "Gnav/8 Change of latitude and longitude/Triangulo de velocidades.md",
+    "Gnav/8 Change of latitude and longitude/Dibujo triangulo de velocidades.md",
+    "Gnav/8 Change of latitude and longitude/Magnetic variation or declination.md",
+    "Gnav/8 Change of latitude and longitude/Magnetic course.md",
+    "Gnav/8 Change of latitude and longitude/Magnetic heading Dibujo.md",
+    "Gnav/8 Change of latitude and longitude/Wind correction angle.md",
+    "Gnav/9 Time/2 Local mean time/Local Mean Time.md",
+    "Gnav/9 Time/1 Ways of measuring time/Apparent and Meantime synchronicity.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Datum.md",
+    "Gnav/7 Latitude and Longitude/1 Definitions/Heading.md",
     "Gnav/7 Latitude and Longitude/1 Definitions/Central Datums.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 2.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 3.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Right Angled Graticule.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Untitled.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Positions.md",
-    "Gnav/Ejercicios1 vor y rates/Como resolver ejercicios de distancias.md",
-    "Gnav/Ejercicios2 distancia/Ejercicio 1.md",
-    "Gnav/Exam 1 questions/60NMpor grado.md",
-    "Gnav/Exam 1 questions/Circumference of the earth.md",
-    "Gnav/Exam 1 questions/Diameter of the Earth.md",
-    "Gnav/Exam 1 questions/Distance between points.md",
-    "Gnav/Exam 1 questions/Geodetic Longitude.md",
-    "Gnav/Exam 1 questions/Elipsoid WGR 84.md",
-    "Gnav/Exam 1 questions/Geoid.md",
-    "Gnav/Exam 1 questions/Inclination of earth Over the year.md",
-    "Gnav/Exam 1 questions/Ins.md",
-    "Gnav/Exam 1 questions/Longitudinal difference between two points.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Loxodromica.md",
-    "Gnav/Ejercicios2 distancia",
-    "Gnav/7 Latitude and Longitude/6 Antipodes",
-    "Gnav/7 Latitude and Longitude/5 Defining Positions",
-    "Gnav/7 Latitude and Longitude/4 Longitude",
-    "Gnav/7 Latitude and Longitude/3 Latitude",
-    "Gnav/7 Latitude and Longitude/2 Units of Measurements",
-    "Gnav/7 Latitude and Longitude/1 Definitions",
-    "Gnav/7 Latitude and Longitude",
+    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/CPDLC.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios2 distancia/Ejercicio 8.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios2 distancia/Ejercicio 10.md",
+    "Gnav/9 Time/6 Complex Example Questions",
+    "Gnav/9 Time/5 Sunrise Sunset and Twilight",
+    "Gnav/9 Time/4 Standard Time",
+    "Gnav/9 Time/3 GMT UCT and ZULU",
+    "Gnav/9 Time/2 Local mean time",
+    "Gnav/9 Time/1 Ways of measuring time",
+    "Gnav/9 Time",
+    "Gnav/8 Change of latitude and longitude/Untitled",
+    "Instruments/Basic instrumentation/Chapter 4 Vertical Speed Indicator/Chapter 3 altimeter/3 Altimeter Types and Displays/3 GNSS altitude",
     "IMAGES/Pasted image 20261116164233.png",
     "Gnav/Temas 1 a 5.canvas",
     "IMAGES/Pasted image 20261116111025.png",
-    "Instruments/Basic instrumentation/Test temas 1 a 8",
     "IMAGES/Pasted image 20261115120056.png",
     "IMAGES/Pasted image 20261115113717.png",
     "IMAGES/Pasted image 20261115111850.png",
