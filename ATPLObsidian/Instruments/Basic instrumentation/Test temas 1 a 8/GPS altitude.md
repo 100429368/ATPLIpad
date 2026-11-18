@@ -1,0 +1,1 @@
+It is a good backup for the altimeter if its not working proplery. It has some error and some **lag**

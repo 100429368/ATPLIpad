@@ -1,0 +1,1 @@
+Si me dan el FL70, me voy a la columna de 7k ft y busco mb , entonces esto nos dará la presión en hPa.

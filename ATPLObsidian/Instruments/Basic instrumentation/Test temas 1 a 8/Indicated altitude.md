@@ -1,0 +1,1 @@
+When flying in cold air, the altimeter will show more altitude than the real altitude. This is over read, or show higher than the true altitude.

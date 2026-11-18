@@ -1,0 +1,1 @@
+It is sealed, it has NO INPUT

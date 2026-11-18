@@ -1,0 +1,1 @@
+It is used to reduce the effect of frition in the linkages. 
