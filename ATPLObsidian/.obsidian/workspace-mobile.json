@@ -61,12 +61,84 @@
             "id": "65cbed90478d6e04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md"
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/The air data computer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Ejercicio 4 viento"
+              "icon": "lucide-file",
+              "title": "The air data computer"
+            }
+          },
+          {
+            "id": "44cb4820f9673cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/Analogue systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analogue systems"
+            }
+          },
+          {
+            "id": "55f7b102a0eba5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC inputs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADC inputs"
+            }
+          },
+          {
+            "id": "4485961520d9e7cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADC output"
+            }
+          },
+          {
+            "id": "f0d9c01ee85547b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADC output"
+            }
+          },
+          {
+            "id": "10c8aaeebc91316f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Systems that receive ADC outputs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Systems that receive ADC outputs"
             }
           },
           {
@@ -82,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +250,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md",
+            "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Systems that receive ADC outputs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -235,11 +307,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65cbed90478d6e04",
+  "active": "0d3c116de10e196e",
   "lastOpenFiles": [
+    "Instruments/Basic instrumentation/10 Terrestrial magnetism/4 Extracting Variation",
+    "Instruments/Basic instrumentation/10 Terrestrial magnetism/3 The limits of Direction",
+    "Instruments/Basic instrumentation/10 Terrestrial magnetism/2 Direction and Variation",
+    "Instruments/Basic instrumentation/10 Terrestrial magnetism/1 Terrestrial Magnetism",
+    "Instruments/Basic instrumentation/10 Terrestrial magnetism",
+    "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Systems that receive ADC outputs.md",
+    "IMAGES/Pasted image 20261118162605.png",
+    "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Sophisticated ADC system.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC inputs.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/ADIRU.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/The air data computer.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/Analogue systems.md",
+    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md",
+    "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs",
+    "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer",
+    "Instruments/Basic instrumentation/9 The air Data Computer",
     "Gnav/8 Change of latitude and longitude/Wind exercises cheatsheet Dibujo.md",
     "Gnav/8 Change of latitude and longitude/Wind Exercises cheatsheet.md",
-    "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 4 viento.md",
     "Gnav/8 Change of latitude and longitude/Magnetic Course dibujo.md",
     "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 2 viento.md",
     "Gnav/8 Change of latitude and longitude/Magnetic heading.md",
@@ -256,23 +344,8 @@
     "Gnav/8 Change of latitude and longitude/Magnetic course.md",
     "Gnav/8 Change of latitude and longitude/Magnetic heading Dibujo.md",
     "Gnav/8 Change of latitude and longitude/Wind correction angle.md",
-    "Gnav/9 Time/2 Local mean time/Local Mean Time.md",
-    "Gnav/9 Time/1 Ways of measuring time/Apparent and Meantime synchronicity.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Datum.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Heading.md",
-    "Gnav/7 Latitude and Longitude/1 Definitions/Central Datums.md",
-    "Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/CPDLC.md",
-    "Gnav/8 Change of latitude and longitude/Ejercicios2 distancia/Ejercicio 8.md",
-    "Gnav/8 Change of latitude and longitude/Ejercicios2 distancia/Ejercicio 10.md",
     "Gnav/9 Time/6 Complex Example Questions",
     "Gnav/9 Time/5 Sunrise Sunset and Twilight",
-    "Gnav/9 Time/4 Standard Time",
-    "Gnav/9 Time/3 GMT UCT and ZULU",
-    "Gnav/9 Time/2 Local mean time",
-    "Gnav/9 Time/1 Ways of measuring time",
-    "Gnav/9 Time",
-    "Gnav/8 Change of latitude and longitude/Untitled",
-    "Instruments/Basic instrumentation/Chapter 4 Vertical Speed Indicator/Chapter 3 altimeter/3 Altimeter Types and Displays/3 GNSS altitude",
     "IMAGES/Pasted image 20261116164233.png",
     "Gnav/Temas 1 a 5.canvas",
     "IMAGES/Pasted image 20261116111025.png",
@@ -283,7 +356,6 @@
     "IMAGES/Pasted image 20261115101404.png",
     "IMAGES/Pasted image 20261115101204.png",
     "IMAGES/Pasted image 20261115101149.png",
-    "IMAGES/Pasted image 20261114192643.png",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Human performance/2 the human organism/The human organism.canvas",
     "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",

@@ -1,0 +1,1 @@
+The ADC is configured with callibration information for each sensor. 

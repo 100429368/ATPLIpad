@@ -1,2 +1,0 @@
-Because pointers can be easily misread, comercial-grade altimeters invariably have a combined analogue and digital (drum) red-out. On most designs a warning flag apears below 10 000ft.
-![[Pasted image 20261105163544.png]]

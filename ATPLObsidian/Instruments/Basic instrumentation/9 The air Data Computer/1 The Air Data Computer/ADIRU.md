@@ -1,0 +1,1 @@
+In modern aicraft ADC is normaly integrated with an intertial reference unit (IRU)
