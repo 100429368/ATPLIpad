@@ -1,0 +1,1 @@
+Taking onto account the air compressibility, to calibrate an air speed indicator

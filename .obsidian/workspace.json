@@ -4,277 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67edc7ee1adbacef",
+        "id": "ae9ba2581d2d4002",
         "type": "tabs",
         "children": [
           {
-            "id": "f381a29402f0e87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/GPS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPS"
-            }
-          },
-          {
-            "id": "cf58ad25178ddcec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Changing reference of the altimeter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Changing reference of the altimeter"
-            }
-          },
-          {
-            "id": "55a894393f63533c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter lag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter lag"
-            }
-          },
-          {
-            "id": "5766b790f0a80bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter input"
-            }
-          },
-          {
-            "id": "3692cfcdd6aa2b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter error"
-            }
-          },
-          {
-            "id": "a1b11a04e6139c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter input"
-            }
-          },
-          {
-            "id": "2d2f6656dcf21abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter capsule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter capsule"
-            }
-          },
-          {
-            "id": "3e3dfdfd69f8b405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Boundary layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boundary layer"
-            }
-          },
-          {
-            "id": "ca7b7ddbea33669c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altitude black and white strips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altitude black and white strips"
-            }
-          },
-          {
-            "id": "ade2f3deaea9057c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter error"
-            }
-          },
-          {
-            "id": "38f7fef844bc12ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/MDH-MDA o DH-DA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MDH-MDA o DH-DA"
-            }
-          },
-          {
-            "id": "2a935c39a68b45c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter error"
-            }
-          },
-          {
-            "id": "7833cd53b278abf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Servo assisted altimeter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Servo assisted altimeter"
-            }
-          },
-          {
-            "id": "36249879bd3e8463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/RA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA"
-            }
-          },
-          {
-            "id": "eb60fd0f6768dfc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/GPS altitude.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPS altitude"
-            }
-          },
-          {
-            "id": "4ca2690f8d9e06f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter vibration device.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Altimeter vibration device"
-            }
-          },
-          {
-            "id": "654eadc74fbb7fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Tabla de alturas con presión y FL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tabla de alturas con presión y FL"
-            }
-          },
-          {
-            "id": "e79eeb7eccb6c422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Venturi effect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Venturi effect"
-            }
-          },
-          {
-            "id": "b66de90b10bd3d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Venturi effect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Venturi effect"
-            }
-          },
-          {
-            "id": "59e227d161ee8e34",
+            "id": "8fec21a1d2c5e1e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -286,9 +20,205 @@
               "icon": "lucide-file",
               "title": "VSI"
             }
+          },
+          {
+            "id": "9d3ceff63439ed7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI vs IVSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VSI vs IVSI"
+            }
+          },
+          {
+            "id": "17fb4b9c71e84e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROD Rate of descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROD Rate of descent"
+            }
+          },
+          {
+            "id": "c623adea5be13597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pitot"
+            }
+          },
+          {
+            "id": "308aa6821a671e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/TAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAS"
+            }
+          },
+          {
+            "id": "d84c039e5a770ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IAS"
+            }
+          },
+          {
+            "id": "c2f052bae9985c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/CAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAS"
+            }
+          },
+          {
+            "id": "20c6e93c8dbf0406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/EAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EAS"
+            }
+          },
+          {
+            "id": "34eaf87b92ba5ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Saint venant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saint venant"
+            }
+          },
+          {
+            "id": "32d8832744c469d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/V_FE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V_FE"
+            }
+          },
+          {
+            "id": "9da07a8901008701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Expedite climb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expedite climb"
+            }
+          },
+          {
+            "id": "8a2eff09a53ad318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pitot"
+            }
+          },
+          {
+            "id": "5c234f044541abaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ASI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASI"
+            }
+          },
+          {
+            "id": "10b58e9953483720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/T configuration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T configuration"
+            }
+          },
+          {
+            "id": "8ac4f6a730f41bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Compressibility error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compressibility error"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -454,53 +384,53 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "59e227d161ee8e34",
+  "active": "8ac4f6a730f41bd4",
   "lastOpenFiles": [
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Venturi effect.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Vibration motor.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter error.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Servo altimeter vs sensitive altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Tabla de alturas con presión y FL.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter vibration device.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/GPS altitude.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/RA.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Servo assisted altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Aneroid capsule.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/FAS-FAF.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/MDH-MDA o DH-DA.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter digital display.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter lag.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altimeter input.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/PIC.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Altitude black and white strips.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Boundary layer.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/T configuration.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Compressibility error.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ASI.md",
     "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Total pressure.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Stand alone altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Densidad de altitud formula.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Changing reference of the altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Higher or lower than ISA in your reference.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Indicated altitude.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Temperature probe.md",
-    "ATPLObsidian/Gnav/9 Time/2 Local mean time",
-    "ATPLObsidian/Gnav/9 Time/1 Ways of measuring time",
-    "ATPLObsidian/Gnav/9 Time",
-    "ATPLObsidian/Gnav/8 Change of latitude and longitude/Exam 1 questions",
-    "ATPLObsidian/Gnav/8 Change of latitude and longitude/Ejercicios viento",
-    "ATPLObsidian/Gnav/8 Change of latitude and longitude/Ejercicios2 distancia",
-    "ATPLObsidian/Gnav/8 Change of latitude and longitude",
-    "ATPLObsidian/Gnav/7 Latitude and Longitude/2 Units of Measurements",
-    "ATPLObsidian/Gnav/7 Latitude and Longitude/1 Definitions",
-    "ATPLObsidian/Gnav/7 Latitude and Longitude",
-    "ATPLObsidian/IMAGES/Pasted image 20261116164233.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261116111025.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115120056.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115113717.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115111850.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115102601.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115101404.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115101204.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261115101149.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261114192643.png"
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/V_FE.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Venturi effect.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Vibration motor.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
+    "ATPLObsidian/IMAGES/Pasted image 20261118232746.png",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Multi crew with different indicators.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Expedite climb.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Unti.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Saint venant.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/EAS.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/CAS.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IAS.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/TAS.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROC Rate of Climb.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROD Rate of descent.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI vs IVSI.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IVSI.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/R MetersPerSencond to ftPerSecond.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Systems that receive ADC outputs.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Sophisticated ADC system.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC inputs.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer",
+    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/4 Precession",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/3 Wander",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity",
+    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics",
+    "ATPLObsidian/Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/3 Calculating compass deviation",
+    "ATPLObsidian/IMAGES/Pasted image 20261118201811.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118200906.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118200006.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118195746.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118195619.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118194545.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118194313.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118194210.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261118194129.png"
   ]
 }

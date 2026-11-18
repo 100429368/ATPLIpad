@@ -1,0 +1,1 @@
+You are asked for ur best rate of climb speed, a blue line

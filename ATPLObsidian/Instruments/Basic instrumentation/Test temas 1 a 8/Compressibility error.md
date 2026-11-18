@@ -1,0 +1,1 @@
+When TAS is greater than approx 300kt 

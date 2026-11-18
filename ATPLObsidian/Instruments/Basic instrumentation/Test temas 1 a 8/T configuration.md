@@ -1,0 +1,1 @@
+Then the Air Speed indicator is ON THE LEFT POSITION
