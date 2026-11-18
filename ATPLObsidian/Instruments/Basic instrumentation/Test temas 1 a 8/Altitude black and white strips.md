@@ -1,0 +1,2 @@
+This strips indicate that you are flying under 10k ft. You will see it up to 15k ft. 
+The altimeter will slowly hide the strips from 10k to 15k. This is a way to remind the pilot that he is flying under 10k ft. It is a safety measure. 

@@ -1,0 +1,1 @@
+Without augmentation , it is inaccurate because the mathematical model used by the GPS is a very close approximation to, rather than a complete match with it, the actual shape of the earth

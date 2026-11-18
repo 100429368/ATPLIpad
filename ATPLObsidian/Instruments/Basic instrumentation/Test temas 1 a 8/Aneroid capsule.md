@@ -1,0 +1,1 @@
+It is filled with vacuum or very low pressure. 
