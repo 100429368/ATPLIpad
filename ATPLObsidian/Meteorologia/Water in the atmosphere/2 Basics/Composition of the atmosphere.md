@@ -1,0 +1,1 @@
+( de los temas anteriores,saber las proporciones  de oxigeno,nitrogeno etc )

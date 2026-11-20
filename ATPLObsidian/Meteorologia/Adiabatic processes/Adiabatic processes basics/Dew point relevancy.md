@@ -1,0 +1,1 @@
+When a mass goes up, its temperature is reduced and the outside temperature reduces,then it is closer to dew point 

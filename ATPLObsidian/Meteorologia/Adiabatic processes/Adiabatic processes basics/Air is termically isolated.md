@@ -1,0 +1,1 @@
+Air is not a good thermo conductor, it doesn't interchange heat.

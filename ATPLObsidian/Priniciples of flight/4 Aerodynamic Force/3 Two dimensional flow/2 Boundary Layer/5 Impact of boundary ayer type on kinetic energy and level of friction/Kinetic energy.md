@@ -1,0 +1,1 @@
+$$K_Elaminar \lt K_E turbulent $$

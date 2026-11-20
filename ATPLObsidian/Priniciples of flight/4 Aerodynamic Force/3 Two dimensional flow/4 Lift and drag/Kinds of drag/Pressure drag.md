@@ -1,0 +1,1 @@
+Its the resistance that appears in both sides of the airfoil. In the tip there is a + and in the other tip theres a - , this creates another type of ressistance
