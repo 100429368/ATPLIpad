@@ -1,0 +1,1 @@
+Componente de [[Aerodynamic total force]] que es paralela al free stream flow.

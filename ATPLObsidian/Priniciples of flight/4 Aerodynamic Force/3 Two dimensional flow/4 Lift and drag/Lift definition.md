@@ -1,0 +1,1 @@
+Componente de [[Aerodynamic total force]] perpendicular al free stream flow

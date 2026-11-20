@@ -4,775 +4,84 @@
     "type": "split",
     "children": [
       {
-        "id": "565ac4e7eb5e6da8",
+        "id": "d2062c18406cdafe",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3534bde80cca51",
+            "id": "cfc41a52928e1b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/8 Change of latitude and longitude/Wind Exercises cheatsheet.md",
+                "file": "Meteorologia/Adiabatic processes/Stability/Environmental lapse rate ELR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wind Exercises cheatsheet"
+              "title": "Environmental lapse rate ELR"
             }
           },
           {
-            "id": "0d026b19fc807b2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Gnav/8 Change of latitude and longitude/Wind exercises cheatsheet Dibujo.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Wind exercises cheatsheet Dibujo"
-            }
-          },
-          {
-            "id": "ca5510dc78c3de18",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 1 viento.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ejercicio 1 viento"
-            }
-          },
-          {
-            "id": "7aa78d9ce71079b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Gnav/8 Change of latitude and longitude/Ejercicios viento/Ejercicio 2 viento.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ejercicio 2 viento"
-            }
-          },
-          {
-            "id": "65cbed90478d6e04",
+            "id": "728af2f832b83666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/The air data computer.md",
+                "file": "Meteorologia/Adiabatic processes/Stability/Conditionally Unstable Air.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The air data computer"
+              "title": "Conditionally Unstable Air"
             }
           },
           {
-            "id": "44cb4820f9673cf0",
+            "id": "9a9d185d4482352c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer/Analogue systems.md",
+                "file": "Meteorologia/Adiabatic processes/Stability/Skew  t diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analogue systems"
+              "title": "Skew  t diagram"
             }
           },
           {
-            "id": "55f7b102a0eba5ff",
+            "id": "4c3991202a0959e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
+                "viewState": {
+                  "x": 86.58801609176919,
+                  "y": 1166.0067716462263,
+                  "zoom": -1.5528790392361662
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Adiabatic process"
+            }
+          },
+          {
+            "id": "37120378f6622938",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC inputs.md",
+                "file": "Meteorologia/Adiabatic processes/Stability/Neutral stability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADC inputs"
-            }
-          },
-          {
-            "id": "4485961520d9e7cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADC output"
-            }
-          },
-          {
-            "id": "f0d9c01ee85547b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADC output"
-            }
-          },
-          {
-            "id": "10c8aaeebc91316f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/1 Terrestrial Magnetism/Terrestrial magnetism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terrestrial magnetism"
-            }
-          },
-          {
-            "id": "e8d67c94b2926312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/1 Terrestrial Magnetism/Field Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Field Components"
-            }
-          },
-          {
-            "id": "fae315c5028d866f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/1 Terrestrial Magnetism/Long Term Changes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Long Term Changes"
-            }
-          },
-          {
-            "id": "ddad050302e1954d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/2 Direction and Variation/Magnetic Direction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnetic Direction"
-            }
-          },
-          {
-            "id": "b53d452fa9cd1d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/2 Direction and Variation/Magnetic variation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnetic variation"
-            }
-          },
-          {
-            "id": "7bb1ae9b03c673e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/2 Direction and Variation/Local variations in Magnetic Field.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local variations in Magnetic Field"
-            }
-          },
-          {
-            "id": "4d9260492482c687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/10 Terrestrial magnetism/3 The limits of Direction/The limits of directions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The limits of directions"
-            }
-          },
-          {
-            "id": "321939dac9f9972c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/1 Compass deviation/Cause of compass deviation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cause of compass deviation"
-            }
-          },
-          {
-            "id": "82000fd9c7f5b147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/1 Compass deviation/Electromagnetism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electromagnetism"
-            }
-          },
-          {
-            "id": "e6f9b90f0e69e247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/1 Compass deviation/Feromagnetic materials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feromagnetic materials"
-            }
-          },
-          {
-            "id": "06bb660e920801f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/1 Compass deviation/Ferro magnetic materials in the aircraft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ferro magnetic materials in the aircraft"
-            }
-          },
-          {
-            "id": "0b681a5f18134839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/3 Calculating compass deviation/Deviation Notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deviation Notation"
-            }
-          },
-          {
-            "id": "523b240650480483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/1 The direct reading compass/The Diret Reading Compass.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Diret Reading Compass"
-            }
-          },
-          {
-            "id": "0e77573e9025d7d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/1 The direct reading compass/E type compass.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E type compass"
-            }
-          },
-          {
-            "id": "cc6d05f41f70568f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/2 Interpreting the compas/Interpreting the compass.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpreting the compass"
-            }
-          },
-          {
-            "id": "41c24fc37aa8eac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/The efect of manoeuvre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The efect of manoeuvre"
-            }
-          },
-          {
-            "id": "560be38d89efb80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/Linear accelerations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear accelerations"
-            }
-          },
-          {
-            "id": "9d5c0a78a624f719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/Central gravity is.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Central gravity is"
-            }
-          },
-          {
-            "id": "a697f8b28c48de26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/Force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Force"
-            }
-          },
-          {
-            "id": "de5f223ea977fbe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/Assembly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assembly"
-            }
-          },
-          {
-            "id": "ed07b34ad93af904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/CG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CG"
-            }
-          },
-          {
-            "id": "ba4dcd9bcdc17bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/4 Accelertion Errors/Effect of manouvre of acceleration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Effect of manouvre of acceleration"
-            }
-          },
-          {
-            "id": "2a652e19dcc6d8f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/5 Turning errors/Effect of turning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Effect of turning"
-            }
-          },
-          {
-            "id": "21aa91ad18eb5b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/5 Turning errors/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "79e3a97ac0dd51ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/11 Direct Reading Compass/6 Error management/Pitch up or pitch down manoeuvres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pitch up or pitch down manoeuvres"
-            }
-          },
-          {
-            "id": "b11742b16cde763b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VSI"
-            }
-          },
-          {
-            "id": "9ebde81b217dc49f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Gyroscopic rigidity in space.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gyroscopic rigidity in space"
-            }
-          },
-          {
-            "id": "8998cf7336876005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Gyroscopic rigidity in space.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gyroscopic rigidity in space"
-            }
-          },
-          {
-            "id": "1d81ecca194dd543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Why objects exhibit Rigidity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why objects exhibit Rigidity"
-            }
-          },
-          {
-            "id": "40bc8490ba2c8812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Factors affecting rigidity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factors affecting rigidity"
-            }
-          },
-          {
-            "id": "f99cc5b7d591244f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Mounting a gyroscope.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mounting a gyroscope"
-            }
-          },
-          {
-            "id": "f472eba9b20fa839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/The space gyro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The space gyro"
-            }
-          },
-          {
-            "id": "48de4d5ab6c7256f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Degrees of freedom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Degrees of freedom"
-            }
-          },
-          {
-            "id": "2b2a882606b7d907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Appliations of two gimbal gyros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appliations of two gimbal gyros"
-            }
-          },
-          {
-            "id": "d3cdf7aff19ffbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Displacement gyro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Displacement gyro"
-            }
-          },
-          {
-            "id": "f8f13491e6f25033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wander"
-            }
-          },
-          {
-            "id": "a618a56b3ed886b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Real wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real wander"
-            }
-          },
-          {
-            "id": "1c38b637131e014a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Apparent wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apparent wander"
-            }
-          },
-          {
-            "id": "74570cd35e5dffbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Transport Wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transport Wander"
-            }
-          },
-          {
-            "id": "15c882b267725266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Transport wander TW and Earth Rotation ER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transport wander TW and Earth Rotation ER"
-            }
-          },
-          {
-            "id": "a659bda2bb576101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Other Types of real Wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Other Types of real Wander"
-            }
-          },
-          {
-            "id": "61fdfb6b29331b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Direction indicator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Direction indicator"
-            }
-          },
-          {
-            "id": "70ad6abe899ab730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Precession.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Precession"
-            }
-          },
-          {
-            "id": "9c41a58633902aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Gyro response to an unbalanced torque.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gyro response to an unbalanced torque"
-            }
-          },
-          {
-            "id": "6a23ae6b4071ada6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Precession.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Precession"
-            }
-          },
-          {
-            "id": "eaaaa684d48fb1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources/Gyro Power Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gyro Power Sources"
+              "title": "Neutral stability"
             }
           }
         ],
-        "currentTab": 54
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -856,7 +165,9 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true,
+    "pinnedSize": 370.5
   },
   "right": {
     "id": "856f504321f1cd05",
@@ -868,7 +179,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources/Gyro Power Sources.md",
+            "file": "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -925,56 +236,58 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eaaaa684d48fb1a3",
+  "active": "4c3991202a0959e6",
   "lastOpenFiles": [
-    "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/The importance of Spin RPM.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources/Gyro Power Sources.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Precession.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Wander.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Transport wander TW and Earth Rotation ER.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Instrument applications for precession.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession/Gyro response to an unbalanced torque.md",
-    "IMAGES/Pasted image 20261118201811.png",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Apparent wander.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Attitude indicator.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Direction indicator.md",
-    "IMAGES/Pasted image 20261118200906.png",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Other Types of real Wander.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Transport Wander.md",
-    "IMAGES/Pasted image 20261118200006.png",
-    "IMAGES/Pasted image 20261118195746.png",
-    "IMAGES/Pasted image 20261118195619.png",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander/Real wander.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Gimbal limitations.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Displacement gyro.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Appliations of two gimbal gyros.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Degrees of freedom.md",
-    "IMAGES/Pasted image 20261118194545.png",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/The space gyro.md",
-    "IMAGES/Pasted image 20261118194313.png",
-    "IMAGES/Pasted image 20261118194210.png",
-    "IMAGES/Pasted image 20261118194129.png",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope/Mounting a gyroscope.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Untitled.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/The gyroscope.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Factors affecting rigidity.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Why objects exhibit Rigidity.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Gyroscopic rigidity in space.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity/Why objets exhibit rigidity.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
-    "Instruments/Basic instrumentation/13 Gyro Basics/6 MEMS gyros",
-    "Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources",
-    "Instruments/Basic instrumentation/13 Gyro Basics/4 Precession",
-    "Instruments/Basic instrumentation/13 Gyro Basics/3 Wander",
-    "Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope",
-    "Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity",
-    "Instruments/Basic instrumentation/13 Gyro Basics",
-    "IMAGES/Pasted image 20261118184817.png",
-    "Instruments/Basic instrumentation/11 Direct Reading Compass/7 Compass serviceability",
-    "Instruments/Basic instrumentation/11 Direct Reading Compass/6 Error management",
-    "Instruments/Basic instrumentation/11 Direct Reading Compass/5 Turning errors",
-    "Gnav/Temas 1 a 5.canvas",
+    "Meteorologia/Adiabatic processes/Stability/Skew  t diagram.md",
+    "Meteorologia/Adiabatic processes/Stability/Saturated adiabatic lapse rate SALR.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
+    "Meteorologia/Adiabatic processes/Stability/Relationship ELR DALR SALR.md",
+    "Meteorologia/Adiabatic processes/Stability/Drawing 2026-11-20 20.42.23.excalidraw.md",
+    "IMAGES/IMG_0233.png",
+    "IMAGES/Pasted image 20261120203246.png",
+    "IMAGES/Pasted image 20261120203053.png",
+    "Meteorologia/Adiabatic processes/Stability/Stable air.md",
+    "Meteorologia/Adiabatic processes/Stability/Unstable air.md",
+    "Meteorologia/Adiabatic processes/Stability/Neutral stability.md",
+    "Meteorologia/Adiabatic processes/Stability/Unstable.md",
+    "Meteorologia/Adiabatic processes/Stability/Environmental lapse rate ELR.md",
+    "Meteorologia/Adiabatic processes/Stability/Conditionally Unstable Air.md",
+    "Meteorologia/Adiabatic processes/Stability/Stability.md",
+    "Meteorologia/Adiabatic processes/Stability/Neutral.md",
+    "Meteorologia/Adiabatic processes/Stability/Conditional stability.md",
+    "IMAGES/Pasted image 20261120202612.png",
+    "IMAGES/Pasted image 20261120202512.png",
+    "Meteorologia/Adiabatic processes/Stability/Dry adiabatic lapse rate DALR.md",
+    "Meteorologia/Adiabatic processes/Stability/Aumento de estabilidad.md",
+    "Meteorologia/Adiabatic processes/Stability/Dibujo temperatura altura.md",
+    "Meteorologia/Adiabatic processes/Stability/Determine the stability of the air.md",
+    "IMAGES/Pasted image 20261120194814.png",
+    "IMAGES/Pasted image 20261120193723.png",
+    "Meteorologia/Adiabatic processes/Stability/Stable Air.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Stability/Atmospheric stability.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Air is termically isolated.md",
+    "Meteorologia/Adiabatic processes/Stability",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic example.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Dew point relevancy.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Example Mass changes its pressure.md",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Every mass who goes down.md",
+    "IMAGES/Pasted image 20261120190907.png",
+    "Meteorologia/Water in the atmosphere/Humedad en el aire.canvas",
+    "Meteorologia/Adiabatic processes",
+    "Meteorologia/Water in the atmosphere/5 Bulb temperature",
+    "IMAGES/Pasted image 20261120182038.png",
+    "IMAGES/Pasted image 20261120182024.png",
+    "Meteorologia/Water in the atmosphere/4 Humedad en el aire/Relative humidity",
+    "Meteorologia/Water in the atmosphere/4 Humedad en el aire",
+    "Meteorologia/Water in the atmosphere/3 Formas de medir humedad",
+    "Meteorologia/Water in the atmosphere/2 Basics",
+    "Meteorologia/Water in the atmosphere/1 Introduction",
+    "Meteorologia/Water in the atmosphere",
+    "Priniciples of flight/4 Aerodynamic Force/Aerodynamic Force.canvas",
     "Human performance/4 The amosphere/The atmosphere.canvas",
+    "Gnav/Temas 1 a 5.canvas",
     "Human performance/2 the human organism/The human organism.canvas",
     "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",
     "Human performance/2 the human organism/Sada.canvas",

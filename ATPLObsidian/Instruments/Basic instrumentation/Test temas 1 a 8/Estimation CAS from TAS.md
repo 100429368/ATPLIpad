@@ -1,0 +1,1 @@
+TAS increases 1.5% for each 1000ft
