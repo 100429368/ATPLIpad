@@ -1,0 +1,10 @@
+{
+  "defaultExportPath": "C:\\Users\\jlbel\\Desktop",
+  "openAfterExport": true,
+  "exportFormat": "pdf",
+  "browserPath": "",
+  "showNodeLabels": true,
+  "highResWebviews": true,
+  "nestedCanvasMode": "render",
+  "nestedCanvasMaxDepth": 3
+}

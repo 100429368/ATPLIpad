@@ -4,221 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9ba2581d2d4002",
+        "id": "7c8eabde8a97df5f",
         "type": "tabs",
         "children": [
           {
-            "id": "8fec21a1d2c5e1e8",
+            "id": "3e065d0f48fba553",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "VSI"
-            }
-          },
-          {
-            "id": "9d3ceff63439ed7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI vs IVSI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VSI vs IVSI"
-            }
-          },
-          {
-            "id": "17fb4b9c71e84e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROD Rate of descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROD Rate of descent"
-            }
-          },
-          {
-            "id": "c623adea5be13597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pitot"
-            }
-          },
-          {
-            "id": "308aa6821a671e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/TAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TAS"
-            }
-          },
-          {
-            "id": "d84c039e5a770ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IAS"
-            }
-          },
-          {
-            "id": "c2f052bae9985c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/CAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CAS"
-            }
-          },
-          {
-            "id": "20c6e93c8dbf0406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/EAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EAS"
-            }
-          },
-          {
-            "id": "34eaf87b92ba5ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Saint venant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saint venant"
-            }
-          },
-          {
-            "id": "32d8832744c469d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/V_FE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "V_FE"
-            }
-          },
-          {
-            "id": "9da07a8901008701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Expedite climb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expedite climb"
-            }
-          },
-          {
-            "id": "8a2eff09a53ad318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pitot"
-            }
-          },
-          {
-            "id": "5c234f044541abaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ASI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASI"
-            }
-          },
-          {
-            "id": "10b58e9953483720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/T configuration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T configuration"
-            }
-          },
-          {
-            "id": "8ac4f6a730f41bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Compressibility error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compressibility error"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -384,53 +183,55 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "8ac4f6a730f41bd4",
+  "active": "11f992f637e47ba6",
   "lastOpenFiles": [
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/T configuration.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Compressibility error.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ASI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Total pressure.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/V_FE.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Venturi effect.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Vibration motor.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Pitot.md",
-    "ATPLObsidian/IMAGES/Pasted image 20261118232746.png",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Multi crew with different indicators.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Expedite climb.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Unti.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/Saint venant.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/EAS.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/CAS.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IAS.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/TAS.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROC Rate of Climb.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/ROD Rate of descent.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/VSI vs IVSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/IVSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 8/R MetersPerSencond to ftPerSecond.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Systems that receive ADC outputs.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/Sophisticated ADC system.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC output.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs/ADC inputs.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/2 ADC Inputs and Outputs",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer/1 The Air Data Computer",
-    "ATPLObsidian/Instruments/Basic instrumentation/9 The air Data Computer",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/5 Gyro Power Sources",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/4 Precession",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/3 Wander",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/2 Mounting a Gyroscope",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics/1 Gyroscopic Rigidity",
-    "ATPLObsidian/Instruments/Basic instrumentation/13 Gyro Basics",
-    "ATPLObsidian/Instruments/Basic instrumentation/12 Aircraft Magnetism and Deviation/3 Calculating compass deviation",
-    "ATPLObsidian/IMAGES/Pasted image 20261118201811.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118200906.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118200006.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118195746.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118195619.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118194545.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118194313.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118194210.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261118194129.png"
+    "ATPLObsidian/Meteorologia/5 Water in the atmosphere/Humedad en el aire.canvas",
+    "ATPLObsidian/Meteorologia/4 Adiabatic processes/Adiabatic process.canvas",
+    "ATPLObsidian/Meteorologia/5 Water in the atmosphere/5 Bulb temperature/Wet bulb temperature.md",
+    "ATPLObsidian/Meteorologia/5 Water in the atmosphere/5 Bulb temperature/Dry bulb temperature.md",
+    "ATPLObsidian/Meteorologia/Water in the atmosphere/dry bulb temperatire.md",
+    "Meteorologia/Water in the atmosphere/5 Bulb temperature/Wet bulb temperature.md",
+    "Meteorologia/Water in the atmosphere/5 Bulb temperature",
+    "Meteorologia/Water in the atmosphere",
+    "Meteorologia",
+    "ATPLObsidian/Comms/Exam 1 questions/Questions part 2 General Operating Procecdures/heavy.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/4 Lift and drag/Kinds of drag/Pressure drag.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/4 Lift and drag/Kinds of drag/Parasite drag.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/4 Lift and drag/Kinds of drag/Friction drag Or form drag.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Viscous Force.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Turbulent Boundary Layer.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Result of the impact.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Magnitude laminar vs turbulet in thickness.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Level of friction.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Kinetic energy.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Impat on friction.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Impacts of this boundary layer.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Impacts of boundary layer dibujo.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/3 Types laminar and turbulent/Turbulent boundary layer.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction/Effecf of surface roughness.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/3 Types laminar and turbulent/Laminar boundary layer.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure/Untitled.base",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure/Transition point.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure/Thickness of layers.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure/position of the transition point.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/2 Main characteristics/Thickness.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure/Laminar.md",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/4 Lift and drag/Kinds of drag",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/3 Types laminar and turbulent",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/4 Structure",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/2 Main characteristics",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/1 Definition",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/Aerodynamic Force.canvas",
+    "ATPLObsidian/IMAGES/Pasted image 20261120203246.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120203053.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120202612.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120202512.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120194814.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120193723.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120190907.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120182038.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120182024.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261120181605.png"
   ]
 }

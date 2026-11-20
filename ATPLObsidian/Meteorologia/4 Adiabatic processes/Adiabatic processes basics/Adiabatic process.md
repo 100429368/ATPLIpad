@@ -4,4 +4,4 @@ Considera una parcela de aire
 * Moving slowly enough that is kinetic energy in a negligible fraction of its total energy
 
 Es decir,si tengo separada entre dos capas con unapared ficticia, sería adiabático cuando por ejemplo si aumenta la temperatura en una,también en otra.
-[[Air is termically isolated]].
+[[Air is thermically isolated]].
