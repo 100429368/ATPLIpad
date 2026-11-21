@@ -1,0 +1,1 @@
+It aligns with the horizontal lines of the Earths magnetic field

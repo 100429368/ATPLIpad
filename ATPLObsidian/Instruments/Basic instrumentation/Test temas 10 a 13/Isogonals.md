@@ -1,0 +1,1 @@
+Lines with equal magnetic declination

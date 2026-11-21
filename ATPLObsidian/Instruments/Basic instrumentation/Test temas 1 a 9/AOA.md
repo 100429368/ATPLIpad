@@ -22,3 +22,13 @@ Continuous or intermitent stick shaker
 Erroneous flight director pitch commander. Bar
 Erroneous pitch limitator indicator
 Erroneous maximum and minimumspeed Bars
+
+
+Generalmente los sensores AoA están conectados a un potenciiómetro y en el ADC se corrigen los errores de posición
+
+AoA está conectado al ADC y el heating es electrico
+
+
+AOA vane feeds its output to ADC
+
+Inputs are FLAPS and SLAPS

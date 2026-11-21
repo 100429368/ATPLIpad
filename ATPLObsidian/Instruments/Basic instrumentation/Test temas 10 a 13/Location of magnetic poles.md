@@ -1,0 +1,1 @@
+wanders 15km each year max

@@ -1,0 +1,1 @@
+Near the poles, it will stand vertical

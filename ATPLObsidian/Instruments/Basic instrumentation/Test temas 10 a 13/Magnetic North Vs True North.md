@@ -1,0 +1,1 @@
+magnetic North is not exactly true North,Magnetic one is in Canada.Magnetic variation is the angulation between these two 

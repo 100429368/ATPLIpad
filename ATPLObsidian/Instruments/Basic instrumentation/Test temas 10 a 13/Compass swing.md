@@ -1,0 +1,1 @@
+It is a good momment to carry it after the aircraft has passed through severe electrical storm or has ben struck by lightning or after a long period of time on the ground.

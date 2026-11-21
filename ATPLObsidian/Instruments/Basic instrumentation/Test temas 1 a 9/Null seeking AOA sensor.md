@@ -1,0 +1,1 @@
+is protected from icing with an electrical heater.
