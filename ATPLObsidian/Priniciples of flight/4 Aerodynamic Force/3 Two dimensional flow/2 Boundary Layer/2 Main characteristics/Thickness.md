@@ -1,1 +1,1 @@
-Usually very think
+Usually very thin

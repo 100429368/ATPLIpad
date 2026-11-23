@@ -95,14 +95,17 @@
             "id": "635fa084c0acf7e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
-                "mode": "source",
-                "source": false
+                "file": "Priniciples of flight/4 Aerodynamic Force/Two dimensional flow.canvas",
+                "viewState": {
+                  "x": 623.0630246584537,
+                  "y": 2397.6852694074983,
+                  "zoom": -1.0180421557819146
+                }
               },
-              "icon": "lucide-file",
-              "title": "Serviceability of the compass"
+              "icon": "lucide-layout-dashboard",
+              "title": "Two dimensional flow"
             }
           }
         ],
@@ -191,7 +194,6 @@
       }
     ],
     "currentTab": 0,
-    "pinned": true,
     "pinnedSize": 370.5
   },
   "right": {
@@ -263,34 +265,36 @@
   },
   "active": "635fa084c0acf7e1",
   "lastOpenFiles": [
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Transmission mechanism.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Transmission mechanism dibujo.md",
+    "Priniciples of flight/4 Aerodynamic Force/Two dimensional flow.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Untitled.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Airflow around an aerofoil.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local velocities.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local pressure dibujo.md",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local pressure _.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Thickness_chord_Ratio.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Thicknes.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Relative thickness.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Radius of the leading edge.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Camber.md",
+    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Angle of attack.md",
+    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Movimiento relativo.md",
+    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Tridimensional airflow.md",
+    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Free stream velocity.md",
+    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Free stream or relative wind.md",
+    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Bidimensional.md",
+    "Priniciples of flight/4 Aerodynamic Force/Drawing 2026-11-23 10.48.31.excalidraw.md",
+    "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Untitled.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Acceleration errors.md",
     "IMAGES/Pasted image 20261122120505.png",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic compass Compensation.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass calibration.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Line of magnetic latitude.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Isogonals.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Dip.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Directive force.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Location of magnetic poles.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Direct reading compass.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/effect of manoeuvres in compass.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Freely suspended compass needle.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic lines angles.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic North Vs True North.md",
-    "Instruments/Basic instrumentation/Untitled.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/AOA.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/Null seeking AOA sensor.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/Aneroid capsule.md",
     "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
     "IMAGES/IMG_0233.png",
     "IMAGES/Pasted image 20261120203246.png",
@@ -311,13 +315,11 @@
     "Meteorologia/Water in the atmosphere/3 Formas de medir humedad",
     "Meteorologia/Water in the atmosphere/2 Basics",
     "Meteorologia/Water in the atmosphere/1 Introduction",
-    "Priniciples of flight/4 Aerodynamic Force/Aerodynamic Force.canvas",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Gnav/Temas 1 a 5.canvas",
     "Human performance/2 the human organism/The human organism.canvas",
     "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",
     "Human performance/2 the human organism/Sada.canvas",
-    "Meteorologia/1  The atmosphere/The atmosphere.canvas",
-    "Human performance/2 the human organism/Human organism.canvas"
+    "Meteorologia/1  The atmosphere/The atmosphere.canvas"
   ]
 }
