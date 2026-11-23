@@ -11,13 +11,102 @@
             "id": "ed734b6e4b126c2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f93be72a882d548a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Correction card"
+            }
+          },
+          {
+            "id": "270342284603fe7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compass check swing"
+            }
+          },
+          {
+            "id": "44a1f69287026836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accuracy of magnetic heading indications"
+            }
+          },
+          {
+            "id": "d6450964747e10d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turning errors"
+            }
+          },
+          {
+            "id": "5693c9ff6afa0133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turning errors"
+            }
+          },
+          {
+            "id": "635fa084c0acf7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serviceability of the compass"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,6 +204,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,14 +261,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed734b6e4b126c2d",
+  "active": "635fa084c0acf7e1",
   "lastOpenFiles": [
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Untitled.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Acceleration errors.md",
+    "IMAGES/Pasted image 20261122120505.png",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic compass Compensation.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Compass calibration.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Line of magnetic latitude.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Isogonals.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Dip.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Directive force.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Location of magnetic poles.md",
@@ -187,19 +286,11 @@
     "Instruments/Basic instrumentation/Test temas 10 a 13/Freely suspended compass needle.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic lines angles.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic North Vs True North.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
     "Instruments/Basic instrumentation/Untitled.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13",
     "Instruments/Basic instrumentation/Test temas 1 a 9/AOA.md",
     "Instruments/Basic instrumentation/Test temas 1 a 9/Null seeking AOA sensor.md",
     "Instruments/Basic instrumentation/Test temas 1 a 9/Aneroid capsule.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/ADC.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/AFCS.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/ADIRU.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/EFIS.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/ASI.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/SAT.md",
-    "Instruments/Basic instrumentation/Test temas 1 a 9/FAS-FAF.md",
     "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
     "IMAGES/IMG_0233.png",
     "IMAGES/Pasted image 20261120203246.png",
@@ -215,7 +306,6 @@
     "Meteorologia/Adiabatic processes",
     "Meteorologia/Water in the atmosphere/5 Bulb temperature",
     "IMAGES/Pasted image 20261120182038.png",
-    "IMAGES/Pasted image 20261120182024.png",
     "Meteorologia/Water in the atmosphere/4 Humedad en el aire/Relative humidity",
     "Meteorologia/Water in the atmosphere/4 Humedad en el aire",
     "Meteorologia/Water in the atmosphere/3 Formas de medir humedad",

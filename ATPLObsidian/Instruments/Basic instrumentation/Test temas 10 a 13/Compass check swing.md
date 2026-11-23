@@ -1,0 +1,1 @@
+It is to measure the angle between magnetic north and compass north

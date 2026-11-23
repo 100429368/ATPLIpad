@@ -1,0 +1,1 @@
+Residual deviation is noted on the card after the compass swing deviation procedures
