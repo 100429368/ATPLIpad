@@ -1,1 +1,1 @@
-Laminar area,it is quitesmall
+Laminar area,it is quite small

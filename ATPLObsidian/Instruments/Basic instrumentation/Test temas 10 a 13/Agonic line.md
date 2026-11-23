@@ -1,0 +1,1 @@
+An imaginary line on  Earth surface along with magntic declination is 0.
