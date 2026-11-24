@@ -1,0 +1,1 @@
+[[Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/2 Boundary Layer/1 Definition/Boundary Layer|Boundary Layer]] has friction.

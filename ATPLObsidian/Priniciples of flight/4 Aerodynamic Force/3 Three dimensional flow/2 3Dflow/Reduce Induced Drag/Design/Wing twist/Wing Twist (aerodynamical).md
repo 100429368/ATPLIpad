@@ -1,0 +1,1 @@
+If we reduce the camber of the tip and increase the camber of the body, this creates lower wing vortex. ![[Pasted image 20261123193408.png]]

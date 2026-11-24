@@ -1,0 +1,1 @@
+Now we have a new component of induced drag, lift and everything new. This is the name of the new sum up of everything.

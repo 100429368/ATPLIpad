@@ -1,0 +1,1 @@
+Since weare trying to flight theminimum distance,w e can fly the ortodromic with loxodromic "tramos" then the loose is less than 1% 

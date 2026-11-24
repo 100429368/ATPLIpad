@@ -1,0 +1,1 @@
+When the kinetic energy becomes 0.

@@ -1,0 +1,1 @@
+Definida en la forma de la tierra como un ELIPSOIDE

@@ -1,0 +1,1 @@
+by making it more difficult for the airflow to spillaround the wing. Making the tip not a vertex but a smooth part.

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"916cbeb2e80446b8","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Gradient/Gradiente.md","x":-380,"y":-120,"width":440,"height":239},
+		{"id":"72a858ccee1c6705","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Gradient/Tipos de gradient/Favorable.md","x":220,"y":140,"width":436,"height":261},
+		{"id":"9740620f9b7fbd99","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Gradient/Tipos de gradient/Adverse.md","x":220,"y":-360,"width":400,"height":320},
+		{"id":"f3ada81827da7103","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/Adverse pressure gradient APG.md","x":760,"y":-400,"width":520,"height":440},
+		{"id":"e5b9983dde5b24f4","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/adverse pressure gradient drawing.md","x":1320,"y":-360,"width":200,"height":320},
+		{"id":"0f11cb56efa81da7","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/When happens the separation in the airfoil?.md","x":-304,"y":1460,"width":400,"height":400},
+		{"id":"318e0dac8325cd1f","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/Difference between separation, transition Point.md","x":-364,"y":731,"width":520,"height":449},
+		{"id":"01a994e0f452f5e5","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/Impact of loosing a part of boundary layer.md","x":456,"y":756,"width":400,"height":400},
+		{"id":"ee03de46b67b2641","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/Separation point.md","x":506,"y":1240,"width":300,"height":160},
+		{"id":"8d842434156615ae","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/Separation of the air in the airfoil.md","x":464,"y":1540,"width":384,"height":240},
+		{"id":"291aeffa0997dfb1","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/The critical Angle.md","x":964,"y":1571,"width":400,"height":179},
+		{"id":"f02eaecb11d6327d","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Stall.md","x":2040,"y":1472,"width":400,"height":200},
+		{"id":"152a2dce694dc891","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Stall definition.md","x":2040,"y":1690,"width":400,"height":220},
+		{"id":"30f364d480c9f966","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Above Critical AoA.md","x":1480,"y":1550,"width":365,"height":221},
+		{"id":"453d9c01eca499b0","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/After stall.md","x":2480,"y":1591,"width":360,"height":180}
+	],
+	"edges":[
+		{"id":"47c886804e099198","fromNode":"916cbeb2e80446b8","fromSide":"right","toNode":"9740620f9b7fbd99","toSide":"left"},
+		{"id":"5ddbc0e5cf66da06","fromNode":"916cbeb2e80446b8","fromSide":"right","toNode":"72a858ccee1c6705","toSide":"left"},
+		{"id":"d519341105616347","fromNode":"318e0dac8325cd1f","fromSide":"right","toNode":"01a994e0f452f5e5","toSide":"left"},
+		{"id":"2c20ecb2dc74b9f1","fromNode":"8d842434156615ae","fromSide":"top","toNode":"ee03de46b67b2641","toSide":"bottom"},
+		{"id":"a2619b7d3ea664d8","fromNode":"0f11cb56efa81da7","fromSide":"right","toNode":"8d842434156615ae","toSide":"left"},
+		{"id":"b27026e95306f39f","fromNode":"318e0dac8325cd1f","fromSide":"bottom","toNode":"0f11cb56efa81da7","toSide":"top"},
+		{"id":"c36dc74ffb0f1f56","fromNode":"8d842434156615ae","fromSide":"right","toNode":"291aeffa0997dfb1","toSide":"left"},
+		{"id":"d7a666a8ede00ec3","fromNode":"291aeffa0997dfb1","fromSide":"right","toNode":"30f364d480c9f966","toSide":"left"},
+		{"id":"6ba656364d3670f3","fromNode":"30f364d480c9f966","fromSide":"right","toNode":"f02eaecb11d6327d","toSide":"left"},
+		{"id":"e7c1445858a33950","fromNode":"30f364d480c9f966","fromSide":"right","toNode":"152a2dce694dc891","toSide":"left"}
+	]
+}

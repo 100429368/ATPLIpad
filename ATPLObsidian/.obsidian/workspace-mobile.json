@@ -4,112 +4,221 @@
     "type": "split",
     "children": [
       {
-        "id": "1a893c82cfd5169e",
+        "id": "f717b3a539d06d05",
         "type": "tabs",
         "children": [
           {
-            "id": "ed734b6e4b126c2d",
+            "id": "018b12a2c49cb0b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Untitled.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Apogeo vs aphelio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Apogeo vs aphelio"
             }
           },
           {
-            "id": "f93be72a882d548a",
+            "id": "cb72e7e317d20436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of northern hemisphere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Correction card"
+              "title": "Names of northern hemisphere"
             }
           },
           {
-            "id": "270342284603fe7f",
+            "id": "9caa33f87b69d04d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of South hemisphere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compass check swing"
+              "title": "Names of South hemisphere"
             }
           },
           {
-            "id": "44a1f69287026836",
+            "id": "e7dcebf5e9ebb018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Sun declination in summer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accuracy of magnetic heading indications"
+              "title": "Sun declination in summer"
             }
           },
           {
-            "id": "d6450964747e10d3",
+            "id": "decf2f72ad7b9f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turning errors"
+              "title": "Solsicio"
             }
           },
           {
-            "id": "5693c9ff6afa0133",
+            "id": "a186ff6464b87669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Equinoccio de otoño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turning errors"
+              "title": "Equinoccio de otoño"
             }
           },
           {
-            "id": "635fa084c0acf7e1",
+            "id": "9ca16948170ce27e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Priniciples of flight/4 Aerodynamic Force/Two dimensional flow.canvas",
-                "viewState": {
-                  "x": 623.0630246584537,
-                  "y": 2397.6852694074983,
-                  "zoom": -1.0180421557819146
-                }
+                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsticio de invierno.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Two dimensional flow"
+              "icon": "lucide-file",
+              "title": "Solsticio de invierno"
+            }
+          },
+          {
+            "id": "ffe0125f3b5d28d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Complementary angle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complementary angle"
+            }
+          },
+          {
+            "id": "1b4cbea7046ca9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colatitude in the tropics"
+            }
+          },
+          {
+            "id": "70face2ad8ffed15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colatitude in the tropics"
+            }
+          },
+          {
+            "id": "ed6d5e8914fdabe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "antartic polar circle"
+            }
+          },
+          {
+            "id": "b21173015fc4050a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona torrida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zona torrida"
+            }
+          },
+          {
+            "id": "fb9172db308528ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona templada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zona templada"
+            }
+          },
+          {
+            "id": "7c59d347d1ccc38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "antartic polar circle"
+            }
+          },
+          {
+            "id": "66cdee86313fb936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gnav/5 Basics of direction/Loxodromic vs ortodromic routes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loxodromic vs ortodromic routes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -194,6 +303,7 @@
       }
     ],
     "currentTab": 0,
+    "pinned": true,
     "pinnedSize": 370.5
   },
   "right": {
@@ -206,7 +316,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+            "file": "Gnav/5 Basics of direction/Loxodromic vs ortodromic routes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -263,63 +373,63 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "635fa084c0acf7e1",
+  "active": "66cdee86313fb936",
   "lastOpenFiles": [
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Transmission mechanism.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Transmission mechanism dibujo.md",
-    "Priniciples of flight/4 Aerodynamic Force/Two dimensional flow.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/3 Fundamental physics property of boundary layer/Untitled.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Airflow around an aerofoil.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local velocities.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local pressure dibujo.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/1 Basic definitions/Distribution of local pressure _.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Thickness_chord_Ratio.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Thicknes.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Relative thickness.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Radius of the leading edge.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Camber.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Parameters/Angle of attack.md",
-    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Movimiento relativo.md",
-    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Tridimensional airflow.md",
-    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Free stream velocity.md",
-    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Free stream or relative wind.md",
-    "Priniciples of flight/4 Aerodynamic Force/1 Basics/Bidimensional.md",
-    "Priniciples of flight/4 Aerodynamic Force/Drawing 2026-11-23 10.48.31.excalidraw.md",
-    "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Untitled.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Acceleration errors.md",
-    "IMAGES/Pasted image 20261122120505.png",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13",
-    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
-    "IMAGES/IMG_0233.png",
-    "IMAGES/Pasted image 20261120203246.png",
-    "IMAGES/Pasted image 20261120203053.png",
-    "IMAGES/Pasted image 20261120202612.png",
-    "IMAGES/Pasted image 20261120202512.png",
-    "IMAGES/Pasted image 20261120194814.png",
-    "IMAGES/Pasted image 20261120193723.png",
-    "Meteorologia/Adiabatic processes/Stability",
-    "Meteorologia/Adiabatic processes/Adiabatic processes basics",
-    "IMAGES/Pasted image 20261120190907.png",
-    "Meteorologia/Water in the atmosphere/Humedad en el aire.canvas",
-    "Meteorologia/Adiabatic processes",
-    "Meteorologia/Water in the atmosphere/5 Bulb temperature",
-    "IMAGES/Pasted image 20261120182038.png",
-    "Meteorologia/Water in the atmosphere/4 Humedad en el aire/Relative humidity",
-    "Meteorologia/Water in the atmosphere/4 Humedad en el aire",
-    "Meteorologia/Water in the atmosphere/3 Formas de medir humedad",
-    "Meteorologia/Water in the atmosphere/2 Basics",
-    "Meteorologia/Water in the atmosphere/1 Introduction",
+    "Gnav/1 Introduction to navigation/Summary.md",
+    "Gnav/5 Basics of direction/Loxodromic vs ortodromic routes.md",
+    "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Automatic weather Broadcast.md",
+    "Comms/Exam 1 questions/Questions part 3 VHF & Weather/If you cannot get information from ATIS.md",
+    "Gnav/5 Basics of direction/1 Compass Directions/Inter cardinal points.md",
+    "Gnav/5 Basics of direction/1 Compass Directions/VOR.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Puntos con sombra.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Zona fria.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Zona templada.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Zona torrida.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/artic circle.md",
+    "Gnav/7 Latitude and Longitude/3 Latitude/Complementary angle.md",
+    "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VOLMET.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Equioccio de primavera boreal u otoño austral.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsticio de invierno.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Equinoccio de otoño.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsicio.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Sun declination in summer.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of South hemisphere.md",
     "Human performance/4 The amosphere/The atmosphere.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Two dimensional flow.canvas",
+    "Meteorologia/4 Adiabatic processes/Stability/Conditionally Unstable Air.md",
+    "Meteorologia/4 Adiabatic processes/Stability/Determine the stability of the air.md",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Declinación del sol.md",
+    "Excalidraw/Drawing 2026-11-24 17.20.02.excalidraw.md",
+    "Excalidraw",
+    "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of northern hemisphere.md",
     "Gnav/Temas 1 a 5.canvas",
-    "Human performance/2 the human organism/The human organism.canvas",
-    "Human performance/3 Cardiovascular System/Cardiovascular System.canvas",
-    "Human performance/2 the human organism/Sada.canvas",
-    "Meteorologia/1  The atmosphere/The atmosphere.canvas"
+    "Comms/Exam 1 questions/Questions part 3 VHF & Weather",
+    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects",
+    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall",
+    "IMAGES/Pasted image 20261123202712.png",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Ground effect",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification",
+    "IMAGES/Pasted image 20261123194528.png",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/Three dimensional flow.canvas",
+    "IMAGES/Pasted image 20261123193724.png",
+    "IMAGES/Pasted image 20261123193716.png",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist",
+    "IMAGES/Pasted image 20261123193408.png",
+    "IMAGES/Pasted image 20261123192738.png",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design",
+    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/3D Plane",
+    "IMAGES/Pasted image 20261123182336.png",
+    "IMAGES/Pasted image 20261123182314.png",
+    "IMAGES/Pasted image 20261123182256.png",
+    "IMAGES/Pasted image 20261123180619.png",
+    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/Aerofoil basics.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Aerofoil basics.canvas",
+    "Meteorologia/3 Atmospheric Pressure/Atmospheric Pressure.canvas",
+    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas",
+    "Meteorologia/Water in the atmosphere/Humedad en el aire.canvas"
   ]
 }

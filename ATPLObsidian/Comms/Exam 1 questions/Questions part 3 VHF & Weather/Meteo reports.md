@@ -1,0 +1,1 @@
+Severe turbulence requiere an inmediate report, omiting the routine report.

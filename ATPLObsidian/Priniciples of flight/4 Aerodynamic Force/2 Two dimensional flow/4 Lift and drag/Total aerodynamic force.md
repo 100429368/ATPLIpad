@@ -1,0 +1,1 @@
+It is a totalforce of lift + drag

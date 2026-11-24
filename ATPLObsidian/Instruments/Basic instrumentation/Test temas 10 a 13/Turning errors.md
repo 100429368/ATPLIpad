@@ -6,3 +6,7 @@ When the ac is turning through a northerly heading, the pilot must undershoot th
 When the ac is turning through a southerly heading,the pilot must overshoot the target heading.
 
 When turning to an easterly or westerly heading, the turning error is zero.
+
+A VER,PARA ACLARARTE
+
+CUANDO GIRAS AL NORTE EL COMPASS VA MAS LENTO QUE TÚ.

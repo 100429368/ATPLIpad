@@ -1,0 +1,1 @@
+Then listen to volmet for the last METAR 

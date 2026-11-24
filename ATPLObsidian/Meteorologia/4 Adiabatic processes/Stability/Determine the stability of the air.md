@@ -7,4 +7,4 @@ El globo asciende porque el aire dentor del flobo tiene mayor temperatura,por lo
 La clave es que dentro del globo aerostático sea más caliente. Por eso se usan por la mañana.
 
 Otro ejemplo es ladensidadcon esta burbuja de aire:
-![[Pasted image 20261120193723.png]]
+![[Pasted image 20261120193723.png]][[Conditionally Unstable Air]]

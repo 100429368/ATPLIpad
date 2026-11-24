@@ -1,0 +1,1 @@
+Definida en la forma de la tierra como GEOIDE. Lalatidud que da al medir LA GRAVEDAD en un punto,con la perpendicular dela tierra
