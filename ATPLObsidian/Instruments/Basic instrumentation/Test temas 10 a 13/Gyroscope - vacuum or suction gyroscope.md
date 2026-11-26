@@ -1,0 +1,1 @@
+It doesn't relie on electrical power

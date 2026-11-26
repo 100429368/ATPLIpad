@@ -1,0 +1,8 @@
+1. [[Instruments/Basic instrumentation/15 Remote Reading Compass or gyro slave compass/1 Principle of operation/Flux Valve]] detects horizontal component of Earth's magnetic field
+2. Transducer. Strator coils connected to the detector unit, adjacent to a detector coil measure the position of the compass card. Compares the displayed heading with the detector unit heading. If there is a discrepancy between the two,an error signal is generated.
+3. Signal amplifier or precission amplifier. The error signal is amplified,phase-compared and rectified to let it drive a precession motor attached to the gyro unit. The gyro nit drives gyro alignment at a rate of about 3º perminute untill the sensor signal has reduced to zero.
+4. Rapid synch unit. Allowing rapid error correction of very large alignmnent errors.This occurs during initial gyro spin up. Kinds of synchronization unit:
+	1. Manual caging and alignment system
+	2. Automatic detection of large alingnment errors. A high gain amplifiers drives gyro alingment to a faster rate. The actual rate varies between 60º and 180º per minute
+5. Gyro unit,in many designs,the gyro is locted on a rack in the electronics bay.The sameprinciple used to reproduce the flux valveoutpits is used to synchronise the display with the gro. This is known as a **selssyn (self synch)**
+6. Annunciator.Where a remote gyro unit is used, the annunciator houses a compasscard which is slaved to the gyro electrically rather than mechanically, via the selsyn system.It asoo comprises a heding select knob and often a course selectknob associated with the radio magnetic bearing needle. 

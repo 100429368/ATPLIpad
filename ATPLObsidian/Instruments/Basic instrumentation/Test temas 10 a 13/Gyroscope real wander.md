@@ -1,0 +1,1 @@
+Is the actual missalignment Of the spin axis due to  mechanical errors in the gyroscope

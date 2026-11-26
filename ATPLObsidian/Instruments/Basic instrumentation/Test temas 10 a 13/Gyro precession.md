@@ -1,0 +1,1 @@
+A gyro begins o precess when a force is applied at right angles to its rotation axis

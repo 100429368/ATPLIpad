@@ -1,0 +1,1 @@
+It is due to the rotating mass friction within the bearing of the gyroscope,resulting as a real wander.  

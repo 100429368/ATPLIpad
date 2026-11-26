@@ -1,0 +1,1 @@
+It is used to measure the rate of turn .It can rotate only in 1 axis.It usessprings 

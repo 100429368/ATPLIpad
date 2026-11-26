@@ -1,0 +1,1 @@
+$$RegimenDeViraje=BankAngle/TA$$

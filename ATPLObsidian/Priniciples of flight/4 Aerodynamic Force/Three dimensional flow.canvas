@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"0a0f54f1b9f0cdc8","type":"group","x":-680,"y":1640,"width":975,"height":1661,"label":"Three dimensional wings"},
+		{"id":"64ac65276856f781","type":"group","x":460,"y":1580,"width":2927,"height":1480,"label":"Induced Drag"},
+		{"id":"0a0f54f1b9f0cdc8","type":"group","x":-680,"y":1640,"width":975,"height":1661,"label":"Three dimensional wing terminology"},
 		{"id":"1ffbc4901fc16a0d","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/1 Wing terminology/Average Chord.md","x":-660,"y":1660,"width":319,"height":200},
 		{"id":"ed11d10695fb0a2e","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/1 Wing terminology/Mean AerodynamicChord MAC.md","x":-660,"y":1943,"width":314,"height":200},
 		{"id":"c03ae6d4ceb90015","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/1 Wing terminology/Aspect Ratio.md","x":-660,"y":2220,"width":305,"height":340},
@@ -18,9 +19,9 @@
 		{"id":"073d3efc804dcc5a","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/AoA induced.md","x":2612,"y":1687,"width":440,"height":200},
 		{"id":"49fd44700deadb6a","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced speed because of a vortex.md","x":1805,"y":2053,"width":503,"height":392},
 		{"id":"d1766950f519ee55","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Distribution of induced speed in a wing dibujo.md","x":1856,"y":2540,"width":400,"height":204},
+		{"id":"d6fbf3a112c0e3d7","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced drag.md","x":2904,"y":2080,"width":463,"height":169},
 		{"id":"766c06955ee94513","type":"text","text":"Impact of 3D effects:\nLIFT DECREASES\nDRAG INCREASES: New component of drag\nDI=Induced drag","x":880,"y":2587,"width":378,"height":157,"color":"1"},
 		{"id":"12602e12e8988a9b","type":"text","text":"Reminder\nspeed distribution comes from AOA and chamber.","x":840,"y":2839,"width":426,"height":107,"color":"5"},
-		{"id":"d6fbf3a112c0e3d7","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced drag.md","x":2904,"y":2080,"width":463,"height":169},
 		{"id":"74d958b6bfb4660b","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/The effective airflow.md","x":2612,"y":2480,"width":524,"height":560}
 	],
 	"edges":[
@@ -34,6 +35,7 @@
 		{"id":"b2d27bac30f95824","fromNode":"073d3efc804dcc5a","fromSide":"bottom","toNode":"f3ac298510c5462f","toSide":"top"},
 		{"id":"c2f3a5f4d5523da2","fromNode":"35c7b60fd9371400","fromSide":"bottom","toNode":"d5721d39c7ff0239","toSide":"top"},
 		{"id":"8b9ac3aae9c56160","fromNode":"f3ac298510c5462f","fromSide":"bottom","toNode":"74d958b6bfb4660b","toSide":"top"},
-		{"id":"915913100b189812","fromNode":"d6fbf3a112c0e3d7","fromSide":"bottom","toNode":"74d958b6bfb4660b","toSide":"top"}
+		{"id":"915913100b189812","fromNode":"d6fbf3a112c0e3d7","fromSide":"bottom","toNode":"74d958b6bfb4660b","toSide":"top"},
+		{"id":"aab25329d78cb249","fromNode":"ed11d10695fb0a2e","fromSide":"right","toNode":"63dbdf5b6e033b2b","toSide":"left"}
 	]
 }

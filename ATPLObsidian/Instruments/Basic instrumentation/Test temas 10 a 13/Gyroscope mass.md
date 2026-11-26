@@ -1,0 +1,1 @@
+It is better if it is concentrated in the periphery with a high rotation speed

@@ -4,221 +4,364 @@
     "type": "split",
     "children": [
       {
-        "id": "f717b3a539d06d05",
+        "id": "3db600bdd2e2fcab",
         "type": "tabs",
         "children": [
           {
-            "id": "018b12a2c49cb0b3",
+            "id": "9ac6fc0dce3dc43d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
+                "viewState": {
+                  "x": 2009.6731103910374,
+                  "y": 2503.5522217078837,
+                  "zoom": -1.1899174150138323
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Three dimensional flow"
+            }
+          },
+          {
+            "id": "c054a7ff6073f414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Apogeo vs aphelio.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Flux valve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apogeo vs aphelio"
+              "title": "Flux valve"
             }
           },
           {
-            "id": "cb72e7e317d20436",
+            "id": "da90e1a778df55b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of northern hemisphere.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/RRC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Names of northern hemisphere"
+              "title": "RRC"
             }
           },
           {
-            "id": "9caa33f87b69d04d",
+            "id": "9dc4e8406ac5de1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of South hemisphere.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Names of South hemisphere"
+              "title": "Gyroscope mass"
             }
           },
           {
-            "id": "e7dcebf5e9ebb018",
+            "id": "592337363bf2d899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Sun declination in summer.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Air driven gyro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sun declination in summer"
+              "title": "Air driven gyro"
             }
           },
           {
-            "id": "decf2f72ad7b9f8c",
+            "id": "43e7c26ea889ff83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsicio.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope topple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solsicio"
+              "title": "Gyroscope topple"
             }
           },
           {
-            "id": "a186ff6464b87669",
+            "id": "e428acd8f22234dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Equinoccio de otoño.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equinoccio de otoño"
+              "title": "Gyroscope mass"
             }
           },
           {
-            "id": "9ca16948170ce27e",
+            "id": "cf3d6d3029f57e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsticio de invierno.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solsticio de invierno"
+              "title": "Gyroscope mass"
             }
           },
           {
-            "id": "ffe0125f3b5d28d9",
+            "id": "d784b9686f49574d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Complementary angle.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complementary angle"
+              "title": "Gyroscope properties"
             }
           },
           {
-            "id": "1b4cbea7046ca9fd",
+            "id": "bd90d84296786459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyros misalignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colatitude in the tropics"
+              "title": "Gyros misalignment"
             }
           },
           {
-            "id": "70face2ad8ffed15",
+            "id": "63deb00beda71f9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colatitude in the tropics"
+              "title": "Gyroscope properties"
             }
           },
           {
-            "id": "ed6d5e8914fdabe8",
+            "id": "aa79fdf34ed90e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antartic polar circle"
+              "title": "Gyro definition"
             }
           },
           {
-            "id": "b21173015fc4050a",
+            "id": "9aadc2fd50443feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona torrida.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope - vacuum or suction gyroscope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zona torrida"
+              "title": "Gyroscope - vacuum or suction gyroscope"
             }
           },
           {
-            "id": "fb9172db308528ae",
+            "id": "bab9e69077dac68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona templada.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro imbalance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zona templada"
+              "title": "Gyro imbalance"
             }
           },
           {
-            "id": "7c59d347d1ccc38f",
+            "id": "952ce5b9d9e66111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro precession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antartic polar circle"
+              "title": "Gyro precession"
             }
           },
           {
-            "id": "66cdee86313fb936",
+            "id": "0d17675442dbd2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/When happens the separation in the airfoil.md",
-                "mode": "preview",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro imbalance.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "When happens the separation in the airfoil"
+              "title": "Gyro imbalance"
+            }
+          },
+          {
+            "id": "ddf0b9100373ee6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyro apparent drift"
+            }
+          },
+          {
+            "id": "7d02cfa55908e1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/gyroscope Horiontally tied.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gyroscope Horiontally tied"
+            }
+          },
+          {
+            "id": "660e1ceaa98560d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyro apparent drift"
+            }
+          },
+          {
+            "id": "34e381811ac1c217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyro apparent drift"
+            }
+          },
+          {
+            "id": "1b1548a74f5e2368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Yaw Pitch Roll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yaw Pitch Roll"
+            }
+          },
+          {
+            "id": "8830b2b427e068cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate Turn one two and three"
+            }
+          },
+          {
+            "id": "35a5aafc47e6c4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate Turn one two and three"
+            }
+          },
+          {
+            "id": "caa30ff428077556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate Turn one two and three"
+            }
+          },
+          {
+            "id": "4d0d49ffbfbe6e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turn coordinator display"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -304,7 +447,7 @@
     ],
     "currentTab": 0,
     "pinned": true,
-    "pinnedSize": 370.5
+    "pinnedSize": 431
   },
   "right": {
     "id": "856f504321f1cd05",
@@ -316,7 +459,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/When happens the separation in the airfoil.md",
+            "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -373,62 +516,63 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66cdee86313fb936",
+  "active": "4d0d49ffbfbe6e28",
   "lastOpenFiles": [
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Above Critical AoA.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Alpha max Or critical AoA Or Stall AoA.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/After stall.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Effects of wing plan form.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Effects of sweptbacwings.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Change of effective AoA along the Span.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/Three dimensional flow.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Lift during take off.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Induced drag during take off.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Induced drag cannot be 0.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Aspect Ratio Modification.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist washout.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist aerodynamical.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Winglet.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Deposits in the tip.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Difficult airflow in the tip.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Tappered wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Rectangular wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Eliptic wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Drawings.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Wing Tip Vortex generation.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Wing tip vortex.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/The effective airflow.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Span wise Flow.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Lift distribution among the wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced speed because of a vortex.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Geometrial characteristics",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic North Vs True North.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/RRC.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Skip slid balance.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Yaw Pitch Roll.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro precession.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass calibration.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Aperiodicity of the compass marks.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Air driven gyro.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Agonic line.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope real wander.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope topple.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope vertically tied.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Line of magnetic latitude.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Isogonals.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Location of magnetic poles.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic lines angles.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic compass Compensation.md",
+    "IMAGES/Pasted image 20261126154955.png",
+    "IMAGES/Pasted image 20261126152558.png",
+    "IMAGES/Pasted image 20261126152333.png",
+    "IMAGES/Pasted image 20261126135633.png",
+    "IMAGES/Pasted image 20261126134659.png",
+    "IMAGES/Pasted image 20261126134556.png",
+    "IMAGES/Pasted image 20261126134552.png",
+    "IMAGES/Pasted image 20261126134057.png",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensionl flow scheme.png",
     "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow",
+    "IMAGES/Pasted image 20261125204204.png",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/5 Appendix 1 secondary precession",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/4 balance indicator",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/3 Turn coordinator",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/2 The turn indicator",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/1 Rate gyros",
+    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator",
+    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/2 gyro erection methods/Untitled.base",
+    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/3 Errors of the attitude indicator",
+    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/2 gyro erection methods",
+    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/1 Principleof operation and Display",
+    "Instruments/Basic instrumentation/13 Gyro Basics/Untitled.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Two dimensional flow.canvas",
-    "Excalidraw",
     "Gnav/Temas 1 a 5.canvas",
-    "Comms/Exam 1 questions/Questions part 3 VHF & Weather",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall",
-    "IMAGES/Pasted image 20261123202712.png",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Ground effect",
-    "IMAGES/Pasted image 20261123194528.png",
-    "IMAGES/Pasted image 20261123193724.png",
-    "IMAGES/Pasted image 20261123193716.png",
-    "IMAGES/Pasted image 20261123193408.png",
-    "IMAGES/Pasted image 20261123192738.png",
-    "IMAGES/Pasted image 20261123182336.png",
-    "IMAGES/Pasted image 20261123182314.png",
-    "IMAGES/Pasted image 20261123182256.png",
-    "IMAGES/Pasted image 20261123180619.png",
     "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/Aerofoil basics.canvas",
     "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Aerofoil basics.canvas",
-    "Meteorologia/3 Atmospheric Pressure/Atmospheric Pressure.canvas",
-    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas"
+    "Meteorologia/3 Atmospheric Pressure/Atmospheric Pressure.canvas"
   ]
 }
