@@ -1,0 +1,1 @@
+in vhf and superior, it is reduced by tropospheric conditions and attenuation as a result of atmospheric absorption

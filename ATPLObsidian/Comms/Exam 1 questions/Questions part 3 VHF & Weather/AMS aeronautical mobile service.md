@@ -1,0 +1,1 @@
+It uses the band below UHF and it includes 288MHz

@@ -1,0 +1,1 @@
+When the same signal arrives to a point from two different paths and with a delay

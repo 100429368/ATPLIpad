@@ -1,0 +1,1 @@
+it is indicating the direction that gyro is being slaved

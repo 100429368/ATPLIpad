@@ -1,0 +1,1 @@
+If there is a discrepancy, the pilot should syncrhonice the DC to the magnetic compass reading

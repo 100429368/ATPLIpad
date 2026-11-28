@@ -1,0 +1,1 @@
+By mounting the detector unit (flux valve) in the wingtip
