@@ -1,0 +1,1 @@
+angle of bank= (TAS/10)+7

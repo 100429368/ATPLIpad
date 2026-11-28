@@ -1,0 +1,1 @@
+Near the poles,no effect and close to the equator:topple 

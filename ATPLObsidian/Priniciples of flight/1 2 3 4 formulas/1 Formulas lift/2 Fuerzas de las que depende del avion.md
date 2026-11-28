@@ -1,0 +1,4 @@
+* Empuje
+* Drag
+* Lift
+* Peso

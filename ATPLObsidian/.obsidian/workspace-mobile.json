@@ -4,221 +4,361 @@
     "type": "split",
     "children": [
       {
-        "id": "f717b3a539d06d05",
+        "id": "bcd11511cc734437",
         "type": "tabs",
         "children": [
           {
-            "id": "018b12a2c49cb0b3",
+            "id": "2b1c3058e4b6203d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Apogeo vs aphelio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apogeo vs aphelio"
-            }
-          },
-          {
-            "id": "cb72e7e317d20436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of northern hemisphere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Names of northern hemisphere"
-            }
-          },
-          {
-            "id": "9caa33f87b69d04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Names of South hemisphere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Names of South hemisphere"
-            }
-          },
-          {
-            "id": "e7dcebf5e9ebb018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Sun declination in summer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sun declination in summer"
-            }
-          },
-          {
-            "id": "decf2f72ad7b9f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solsicio"
-            }
-          },
-          {
-            "id": "a186ff6464b87669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Equinoccio de otoño.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equinoccio de otoño"
-            }
-          },
-          {
-            "id": "9ca16948170ce27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/6 Earth/2 Earth Orbit and Axial Tilt/Solsticio de invierno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solsticio de invierno"
-            }
-          },
-          {
-            "id": "ffe0125f3b5d28d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Complementary angle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complementary angle"
-            }
-          },
-          {
-            "id": "1b4cbea7046ca9fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colatitude in the tropics"
-            }
-          },
-          {
-            "id": "70face2ad8ffed15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Colatitude in the tropics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colatitude in the tropics"
-            }
-          },
-          {
-            "id": "ed6d5e8914fdabe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "antartic polar circle"
-            }
-          },
-          {
-            "id": "b21173015fc4050a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona torrida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zona torrida"
-            }
-          },
-          {
-            "id": "fb9172db308528ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/Zona templada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zona templada"
-            }
-          },
-          {
-            "id": "7c59d347d1ccc38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gnav/7 Latitude and Longitude/3 Latitude/antartic polar circle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "antartic polar circle"
-            }
-          },
-          {
-            "id": "66cdee86313fb936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/When happens the separation in the airfoil.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Ammount of clouds.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "When happens the separation in the airfoil"
+              "title": "Ammount of clouds"
+            }
+          },
+          {
+            "id": "bdc6e261e24302e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF optimal conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VHF optimal conditions"
+            }
+          },
+          {
+            "id": "fb3703f4704b761b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF communication wtith ATC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VHF communication wtith ATC"
+            }
+          },
+          {
+            "id": "f03ad3dfe10ce300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeronautical Movile services"
+            }
+          },
+          {
+            "id": "5f369a93412cbfe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Longest theoretical range.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longest theoretical range"
+            }
+          },
+          {
+            "id": "a37738024c5f91a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF limitations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VHF limitations"
+            }
+          },
+          {
+            "id": "9921865a2ed0c5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeronautical Movile services"
+            }
+          },
+          {
+            "id": "69e12b8e8fa6f393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/5 Eye and vision/1 Anatomy of the visual system/Anatomy of the visual system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomy of the visual system"
+            }
+          },
+          {
+            "id": "c4c05567348b0fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/5 Eye and vision/1 Anatomy of the visual system/Visual cortex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visual cortex"
+            }
+          },
+          {
+            "id": "8698b2e7ae764beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/5 Time of useful consciousness/Time of useful consciousness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time of useful consciousness"
+            }
+          },
+          {
+            "id": "6e477025162aeb08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/5 Time of useful consciousness/Positive Pressure Breathing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Positive Pressure Breathing"
+            }
+          },
+          {
+            "id": "b8c163f08dd52538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/6 Hyperventilation/Hyperventilation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperventilation"
+            }
+          },
+          {
+            "id": "e53a2b0c92635f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeronautical Movile services"
+            }
+          },
+          {
+            "id": "c6d3965d1a097dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Disbarisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disbarisms"
+            }
+          },
+          {
+            "id": "4025a080deb8298a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barotrauma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barotrauma"
+            }
+          },
+          {
+            "id": "afb156beef2b34a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barotitis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barotitis"
+            }
+          },
+          {
+            "id": "9a25f3353d870deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barosinusitis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barosinusitis"
+            }
+          },
+          {
+            "id": "b46637fbd381225f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Baropatia abdominal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baropatia abdominal"
+            }
+          },
+          {
+            "id": "fbcbd4442db0b8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Ball in the center meaning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ball in the center meaning"
+            }
+          },
+          {
+            "id": "b48897d4cb0cce73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Skip slid balance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skip slid balance"
+            }
+          },
+          {
+            "id": "dcfb91794bf7f936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Enfermedad descompresiva/Factores del desarrollo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factores del desarrollo"
+            }
+          },
+          {
+            "id": "ea8ebd62ed87beba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Aceleraciones/Definición.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definición"
+            }
+          },
+          {
+            "id": "69fab30245a6180f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Aceleraciones/Aceleraciones actuando sobre un cuerpo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aceleraciones actuando sobre un cuerpo"
+            }
+          },
+          {
+            "id": "80c5ec8ca56a24ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Aceleraciones/Gs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gs"
+            }
+          },
+          {
+            "id": "d1a692894a20f82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Aceleraciones/Vuelo parabolico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vuelo parabolico"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -303,8 +443,7 @@
       }
     ],
     "currentTab": 0,
-    "pinned": true,
-    "pinnedSize": 370.5
+    "pinnedSize": 431
   },
   "right": {
     "id": "856f504321f1cd05",
@@ -316,7 +455,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Separation of the air/When happens the separation in the airfoil.md",
+            "file": "Human performance/Aceleraciones/Vuelo parabolico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -373,62 +512,63 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66cdee86313fb936",
+  "active": "d1a692894a20f82b",
   "lastOpenFiles": [
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Above Critical AoA.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Alpha max Or critical AoA Or Stall AoA.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/After stall.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Effects of wing plan form.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Effects of sweptbacwings.md",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Change of effective AoA along the Span.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/Three dimensional flow.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Lift during take off.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Induced drag during take off.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Induced drag cannot be 0.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Aspect Ratio Modification.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist washout.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist aerodynamical.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Winglet.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Deposits in the tip.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Difficult airflow in the tip.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Tappered wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Rectangular wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Eliptic wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Drawings.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Wing Tip Vortex generation.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Wing tip vortex.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/The effective airflow.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Span wise Flow.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Lift distribution among the wing.md",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced speed because of a vortex.md",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow/Geometrial characteristics",
-    "Priniciples of flight/4 Aerodynamic Force/2 Bidimensional flow",
+    "Human performance/Aceleraciones/Gs.md",
+    "Human performance/Aceleraciones/Vuelo parabolico.md",
+    "Human performance/Aceleraciones/Aceleraciones actuando sobre un cuerpo.md",
+    "Human performance/Aceleraciones/Definición.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+    "Human performance/Aceleraciones",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Balance turn indicator.md",
+    "Human performance/Enfermedad descompresiva/Tratamiento.md",
+    "Human performance/Enfermedad descompresiva/Factores del desarrollo.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Skip slid balance.md",
+    "Human performance/Enfermedad descompresiva/Enfermedad descompresiva.md",
+    "Human performance/Enfermedad descompresiva",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Angle of bank.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Senos paranasales.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Correcting ball.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Ball in the center meaning.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barotitis.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Disbarisms.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Compression sickness.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barodontalgia.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Baropatia abdominal.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barosinusitis.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barotrauma.md",
+    "Human performance/4 The amosphere/8 Disbarismos",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
+    "Human performance/4 The amosphere/6 Hyperventilation/Hyperventilation.md",
+    "Human performance/4 The amosphere/6 Hyperventilation/Diferencia entre hypoxia e hiperventilación.md",
+    "Human performance/4 The amosphere/7 presurizacíón de cabinas",
+    "IMAGES/Pasted image 20261127164331.png",
+    "Human performance/5 Eye and vision/6 Meausing acuity",
+    "Human performance/5 Eye and vision/5 Defective vision",
+    "Human performance/5 Eye and vision/4 Physiological Limitations",
+    "Human performance/5 Eye and vision/3 Dark and Light adaptation",
+    "Human performance/5 Eye and vision/2 Vision",
+    "Human performance/5 Eye and vision/1 Anatomy of the visual system",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/Airfoil Stall.canvas",
     "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer/5 Impact of boundary ayer type on kinetic energy and level of friction",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/2 Boundary Layer",
-    "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensionl flow scheme.png",
+    "IMAGES/Pasted image 20261127100641.png",
+    "IMAGES/Pasted image 20261126195537.png",
+    "IMAGES/Pasted image 20261126194733.png",
+    "IMAGES/Pasted image 20261126154955.png",
+    "IMAGES/Pasted image 20261126152558.png",
+    "IMAGES/Pasted image 20261126152333.png",
+    "IMAGES/Pasted image 20261126135633.png",
+    "IMAGES/Pasted image 20261126134659.png",
+    "Instruments/Basic instrumentation/13 Gyro Basics/Untitled.canvas",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Two dimensional flow.canvas",
-    "Excalidraw",
     "Gnav/Temas 1 a 5.canvas",
-    "Comms/Exam 1 questions/Questions part 3 VHF & Weather",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects",
-    "Priniciples of flight/4 Aerodynamic Force/4 Wing Stall",
-    "IMAGES/Pasted image 20261123202712.png",
-    "Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Ground effect",
-    "IMAGES/Pasted image 20261123194528.png",
-    "IMAGES/Pasted image 20261123193724.png",
-    "IMAGES/Pasted image 20261123193716.png",
-    "IMAGES/Pasted image 20261123193408.png",
-    "IMAGES/Pasted image 20261123192738.png",
-    "IMAGES/Pasted image 20261123182336.png",
-    "IMAGES/Pasted image 20261123182314.png",
-    "IMAGES/Pasted image 20261123182256.png",
-    "IMAGES/Pasted image 20261123180619.png",
     "Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/Aerofoil basics.canvas",
     "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Aerofoil basics.canvas",
-    "Meteorologia/3 Atmospheric Pressure/Atmospheric Pressure.canvas",
-    "Meteorologia/Adiabatic processes/Adiabatic processes basics/Adiabatic process.canvas"
+    "Meteorologia/3 Atmospheric Pressure/Atmospheric Pressure.canvas"
   ]
 }

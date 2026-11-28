@@ -1,0 +1,1 @@
+The angle between the 0.25of the chord line and The wing lateral axis

@@ -1,0 +1,1 @@
+The turn coordinator suffers the same errors asthe turn indicator. It is only accurate atone TAS,one rotor RPM and almost no pitch rate

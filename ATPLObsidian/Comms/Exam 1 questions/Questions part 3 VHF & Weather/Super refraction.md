@@ -1,0 +1,1 @@
+VHF comms sometimes exprience extended ranges as a result of super refraction

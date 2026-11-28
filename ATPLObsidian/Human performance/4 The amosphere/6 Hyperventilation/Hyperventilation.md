@@ -2,7 +2,7 @@ Is the state of breathing faster and/or deeper than necessary for the body's cur
 Causes:
 * Voluntary
 * Strokes and brain injuries
-* Stress and anxiety
+* Stress and anxiety (principales son las psicologicas)
 
 Early symptoms:
 * Rapid breathing rate

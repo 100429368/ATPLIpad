@@ -1,0 +1,1 @@
+La relación es power=range^2

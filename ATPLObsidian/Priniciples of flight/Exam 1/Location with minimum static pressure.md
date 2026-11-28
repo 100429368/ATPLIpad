@@ -1,0 +1,1 @@
+In an airfoil with positive chamber, it is found where streamlines are the closest.

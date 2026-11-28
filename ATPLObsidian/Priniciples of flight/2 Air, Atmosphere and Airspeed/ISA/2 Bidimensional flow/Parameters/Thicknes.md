@@ -5,4 +5,4 @@ the representative distance is**the maximum distance**
 Thickness then is the maximum distance between the top and lower sides
 
 
-[[Relative thickness]]
+[[Priniciples of flight/2 Air, Atmosphere and Airspeed/ISA/2 Bidimensional flow/Parameters/Relative thickness]]

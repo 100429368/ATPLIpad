@@ -1,0 +1,2 @@
+1. Deviation.Anything that causes distorion in the Earth's magnetic field causes a deviation in the flux of the valves.It is normal to calibrate the slaving circuit to compensate for deviation during a compass swing.Itis usual to find a compass correction deviation wcard with an RRC.
+2. Attitude and acceleration.A flux valveopertes by detecting the horizontal component of the Earth's mmagnetic field. This error is smaller than the direct readingcompass.

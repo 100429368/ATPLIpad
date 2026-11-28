@@ -1,0 +1,1 @@
+W/S por lo que newtons/m^2

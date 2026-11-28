@@ -1,0 +1,1 @@
+The idea is to delay the stall at the wing tip,there is where the flaps are,then C to redue the likelihood of an aeroplane experiencing significant rolling movements during stall

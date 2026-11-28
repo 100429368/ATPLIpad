@@ -1,0 +1,1 @@
+Remote reading compass  has less turning and acceleration errors than a direct reading compass DRC then the outputs are more usable to other instruments.

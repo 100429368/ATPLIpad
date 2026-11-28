@@ -1,0 +1,1 @@
+Is the ratio of tip chord to root chord

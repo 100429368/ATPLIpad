@@ -14,4 +14,10 @@ Physiological effects become noticeable:
 Begins above 22 000 ft AMSL. Almost complete mental and physical incapacitation, leading to rapid loss of consciousness, convulsions and death.
 
 
+Indiferente entre 0 y 10k
+Compensadora entre 10k y 15k
+Clinica entre 15k 20k
+Critica entre 20k
+
+
 ![[Pasted image 20261110201720.png]]
