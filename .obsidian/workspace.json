@@ -209,16 +209,240 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/VSI vs IVSI.md",
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Balance indicator _ slip indicator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSI vs IVSI"
+              "title": "Balance indicator _ slip indicator"
+            }
+          },
+          {
+            "id": "f5cd7ccce3b7580e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/ADI attitude director indicator or display.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADI attitude director indicator or display"
+            }
+          },
+          {
+            "id": "9bbb6947a901f4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Air driven ADI errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air driven ADI errors"
+            }
+          },
+          {
+            "id": "cfd605e20da5be63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Air driven gyro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air driven gyro"
+            }
+          },
+          {
+            "id": "e0b2af36dec14208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Air driven ADI errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air driven ADI errors"
+            }
+          },
+          {
+            "id": "7f2efa6332d12a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Air driven ADI errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air driven ADI errors"
+            }
+          },
+          {
+            "id": "844fe326323786fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Directional gyro DG/DG error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DG error"
+            }
+          },
+          {
+            "id": "522f50663b06a57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Directional gyro DG/Gyroscope transport wander.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyroscope transport wander"
+            }
+          },
+          {
+            "id": "67ad4ac3ad92f310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Remote Reading compass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Remote Reading compass"
+            }
+          },
+          {
+            "id": "d801a253f3f009eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Selsyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selsyn"
+            }
+          },
+          {
+            "id": "9a45ace3df3a88b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Position.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Position"
+            }
+          },
+          {
+            "id": "56cd841bb19230d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Consists of.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consists of"
+            }
+          },
+          {
+            "id": "4d49207a3b9c3c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/free or slave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "free or slave"
+            }
+          },
+          {
+            "id": "b5d8395396966fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/flux valve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flux valve"
+            }
+          },
+          {
+            "id": "0ddeda9618c33880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Annunciator of a remoting indicating compass system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annunciator of a remoting indicating compass system"
+            }
+          },
+          {
+            "id": "c4e097c9371ebe53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass/Advantage of remote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advantage of remote"
+            }
+          },
+          {
+            "id": "1bd18749ea0fc928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Formulas y esquemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formulas y esquemas"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -384,59 +608,59 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "2624312728adb49f",
+  "active": "1bd18749ea0fc928",
   "lastOpenFiles": [
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/VSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/VSI vs IVSI.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Vibration motor.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Venturi effect.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/V_MO.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/V_FE.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Unreliable airspeed.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Tropopause.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Total pressure.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Temperature probe.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/TAT RAR OAT SAT.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/TAS.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Tabla de alturas con presión y FL.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/T configuration.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Stand alone altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Servo assisted altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Servo altimeter vs sensitive altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Sensitive altimeter.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/SAT.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/Saint venant.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/ROD Rate of descent.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/ROC Rate of Climb.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/relacion CAS TAS MACH.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/RA.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/R MetersPerSencond to ftPerSecond.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 1 a 9/QNH.md",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Directional gyro",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/gyro",
-    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/dmc",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Red flag on ADI.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Gyro used in attitude indicator.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Emergency ADI or standby ADI.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Command bars.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Artificial horizont.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Air driven ADI errors.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/ADI attitude director indicator or display.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI/Acceleration during take off.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Turning errors.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Serviceability of the compass.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Magnetic variation.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Magnetic North Vs True North.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Untitled.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Magnetic lines angles.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Magnetic compass Compensation.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Location of magnetic poles.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Line of magnetic latitude.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Isogonals.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Freely suspended compass needle.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Formulas y esquemas.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/effect of manoeuvres in compass.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/discrepancy DC and MDC.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Directive force.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Direct reading compass.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Dip.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/direct magnetic compass DMC/Correction card.md",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Remote Reading compass",
+    "ATPLObsidian/IMAGES/Pasted image 20261128110240.png",
+    "ATPLObsidian/Instruments/Basic instrumentation/Test temas 10 a 13/Attitude directior indicator AI or ADI",
+    "ATPLObsidian/Priniciples of flight/Exam 1",
+    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/Three dimensionl flow scheme.png",
+    "ATPLObsidian/Priniciples of flight/1 2 3 4 formulas/2 Formulas drag",
+    "ATPLObsidian/Priniciples of flight/1 2 3 4 formulas/4 Drag vs velocity",
+    "ATPLObsidian/Priniciples of flight/1 2 3 4 formulas/3 Relacion drift drag",
+    "ATPLObsidian/Priniciples of flight/1 2 3 4 formulas/1 Formulas lift",
+    "ATPLObsidian/Priniciples of flight/1 2 3 4 formulas",
+    "ATPLObsidian/Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/3 Turn coordinator",
+    "ATPLObsidian/Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/4 balance indicator",
+    "ATPLObsidian/IMAGES/Pasted image 20261127164331.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261127100641.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126195537.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126194733.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126154955.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126152558.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126152333.png",
+    "ATPLObsidian/IMAGES/Pasted image 20261126135633.png",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/Two dimensional flow.canvas",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/4 Wing Stall",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design",
-    "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/Three dimensional flow.canvas",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Two dimensional flow.canvas",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Aerofoil basics.canvas",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
-    "ATPLObsidian/IMAGES/Pasted image 20261123202712.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123194528.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123193724.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123193716.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123193408.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123192738.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123182336.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123182314.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123182256.png",
-    "ATPLObsidian/IMAGES/Pasted image 20261123180619.png",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
     "ATPLObsidian/Priniciples of flight/4 Aerodynamic Force/3 Two dimensional flow/Aerofoil basics.canvas",
     "ATPLObsidian/Meteorologia/5 Water in the atmosphere/Humedad en el aire.canvas",

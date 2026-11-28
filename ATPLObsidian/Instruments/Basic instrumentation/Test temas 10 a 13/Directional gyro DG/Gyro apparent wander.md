@@ -4,3 +4,5 @@ It changes with latitude
 
 ![[Pasted image 20261126134057.png]]Al final lo que cambia somos nosotros,no el giroscopio.el giroscopio sigue girando en la misma posición.
 Cuándo puede variar? Solo en la vertical de la tierra,porque en la latitud este giroscopio no puede variar.
+
+Then in the equator the apparent wander is 0

@@ -1,0 +1,1 @@
+Contains its own separate gyro

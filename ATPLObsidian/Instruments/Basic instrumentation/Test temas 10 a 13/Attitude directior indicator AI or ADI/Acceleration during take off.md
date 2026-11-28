@@ -1,0 +1,2 @@
+ADI indicates climb because the mercury in the longitudinally mounted switch will hang back and complete the circuit to the pitch torque motor, causing hte instrumen tot show a false climb wtf
+this happens because the lateral pendulous vanes swing back

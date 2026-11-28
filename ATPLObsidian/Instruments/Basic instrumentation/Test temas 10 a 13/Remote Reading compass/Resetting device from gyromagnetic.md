@@ -1,0 +1,1 @@
+the input signal originates from the ERROR DETECTOR

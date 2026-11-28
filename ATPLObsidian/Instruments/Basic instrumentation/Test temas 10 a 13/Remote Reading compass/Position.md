@@ -1,0 +1,1 @@
+In the wings, to minimize the amount of deviation caused by aircraft magnetism and electrical circuits

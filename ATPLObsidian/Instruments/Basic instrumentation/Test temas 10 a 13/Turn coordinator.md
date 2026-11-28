@@ -1,0 +1,1 @@
+It shows rate of turn of 180º in 1 minute

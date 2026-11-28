@@ -1,0 +1,1 @@
+Indicates the angle of bank corresponding to the rate of turn and TAS being flown

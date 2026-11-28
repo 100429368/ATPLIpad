@@ -1,0 +1,1 @@
+Uses a complex electrical system and it is less subjected to magnetic interference

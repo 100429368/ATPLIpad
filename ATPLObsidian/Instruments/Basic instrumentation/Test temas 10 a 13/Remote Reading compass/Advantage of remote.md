@@ -1,0 +1,1 @@
+Sense,s rather than seeks, the magnetic meridian, therefore it is more sensitive

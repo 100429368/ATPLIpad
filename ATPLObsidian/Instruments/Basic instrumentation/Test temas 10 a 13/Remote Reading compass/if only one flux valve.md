@@ -1,0 +1,1 @@
+If the autopìlot is engageds in heading hold mode , if the gyro begins to drigt, the autopilot also drifts annd the ac deviates from its intended course

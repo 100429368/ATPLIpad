@@ -1,0 +1,1 @@
+Shows the gyro heading, it is calibrated manually and stays precise for short duration
