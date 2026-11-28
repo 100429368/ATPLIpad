@@ -2,6 +2,8 @@ Caused by low saturation levels ofoxygen in the blood,caused by low partial pres
 A sudden decompression at high altitude followed by a failured to revert to 100% oxygen in insuficient time can resultin hypoxic hypoxia.
 
 LA SANGRE Q SALE DEL PULMON NO SALE SUFICIENTEMENTE OXIGENADA
+Hipbarica porque lapresión es baja, esla relacionada con el vuelo.
+
 
 THREAT
 Insiduous onset of congnitive deficit providing little warning of incapacitation.

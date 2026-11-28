@@ -1,0 +1,2 @@
+It happensbecause of henrys law
+Cuando aarecen burbujas en el cuerpo por la cantidad de nitrogeno disuelto en el cuerpo. Tenemos 1l disuelto en el cuerpo disuelto NO de forma igual por todo el cuerpo (la grasa tiene más,esdecir cerebro tb)

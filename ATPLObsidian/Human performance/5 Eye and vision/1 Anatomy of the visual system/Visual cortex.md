@@ -1,0 +1,2 @@
+Is an area of cortex at the back of the brain which is reponsible for processing the information received from the eyes.
+It is approximately 70% of all sensory information processed by the brain is visual information.

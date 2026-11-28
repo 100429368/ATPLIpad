@@ -1,0 +1,1 @@
+Es el tipo de ala donde tip chord es menor que root chord.

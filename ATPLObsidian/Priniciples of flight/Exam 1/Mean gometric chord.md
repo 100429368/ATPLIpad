@@ -1,0 +1,1 @@
+Wing area / wing span 

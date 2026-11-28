@@ -11,3 +11,6 @@ The standard rate of turn is 3º and its inversely proportional to the TAS
 The display shows the rate 1 turn 
 
 Bank of anglef for one rate turn = (TAS/10)+7º
+
+
+No matter if it is balanced orNOT!!!

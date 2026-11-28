@@ -4,360 +4,357 @@
     "type": "split",
     "children": [
       {
-        "id": "3db600bdd2e2fcab",
+        "id": "bcd11511cc734437",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac6fc0dce3dc43d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
-                "viewState": {
-                  "x": 2009.6731103910374,
-                  "y": 2503.5522217078837,
-                  "zoom": -1.1899174150138323
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Three dimensional flow"
-            }
-          },
-          {
-            "id": "c054a7ff6073f414",
+            "id": "2b1c3058e4b6203d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Flux valve.md",
-                "mode": "source",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Ammount of clouds.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flux valve"
+              "title": "Ammount of clouds"
             }
           },
           {
-            "id": "da90e1a778df55b1",
+            "id": "bdc6e261e24302e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/RRC.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF optimal conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RRC"
+              "title": "VHF optimal conditions"
             }
           },
           {
-            "id": "9dc4e8406ac5de1a",
+            "id": "fb3703f4704b761b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF communication wtith ATC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope mass"
+              "title": "VHF communication wtith ATC"
             }
           },
           {
-            "id": "592337363bf2d899",
+            "id": "f03ad3dfe10ce300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Air driven gyro.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air driven gyro"
+              "title": "Aeronautical Movile services"
             }
           },
           {
-            "id": "43e7c26ea889ff83",
+            "id": "5f369a93412cbfe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope topple.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Longest theoretical range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope topple"
+              "title": "Longest theoretical range"
             }
           },
           {
-            "id": "e428acd8f22234dc",
+            "id": "a37738024c5f91a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/VHF limitations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope mass"
+              "title": "VHF limitations"
             }
           },
           {
-            "id": "cf3d6d3029f57e6e",
+            "id": "9921865a2ed0c5ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope mass.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope mass"
+              "title": "Aeronautical Movile services"
             }
           },
           {
-            "id": "d784b9686f49574d",
+            "id": "69e12b8e8fa6f393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope properties.md",
+                "file": "Human performance/5 Eye and vision/1 Anatomy of the visual system/Anatomy of the visual system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope properties"
+              "title": "Anatomy of the visual system"
             }
           },
           {
-            "id": "bd90d84296786459",
+            "id": "c4c05567348b0fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyros misalignment.md",
+                "file": "Human performance/5 Eye and vision/1 Anatomy of the visual system/Visual cortex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyros misalignment"
+              "title": "Visual cortex"
             }
           },
           {
-            "id": "63deb00beda71f9d",
+            "id": "8698b2e7ae764beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope properties.md",
+                "file": "Human performance/4 The amosphere/5 Time of useful consciousness/Time of useful consciousness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope properties"
+              "title": "Time of useful consciousness"
             }
           },
           {
-            "id": "aa79fdf34ed90e93",
+            "id": "6e477025162aeb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro definition.md",
+                "file": "Human performance/4 The amosphere/5 Time of useful consciousness/Positive Pressure Breathing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro definition"
+              "title": "Positive Pressure Breathing"
             }
           },
           {
-            "id": "9aadc2fd50443feb",
+            "id": "b8c163f08dd52538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope - vacuum or suction gyroscope.md",
+                "file": "Human performance/4 The amosphere/6 Hyperventilation/Hyperventilation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyroscope - vacuum or suction gyroscope"
+              "title": "Hyperventilation"
             }
           },
           {
-            "id": "bab9e69077dac68d",
+            "id": "e53a2b0c92635f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro imbalance.md",
+                "file": "Comms/Exam 1 questions/Questions part 3 VHF & Weather/Aeronautical Movile services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro imbalance"
+              "title": "Aeronautical Movile services"
             }
           },
           {
-            "id": "952ce5b9d9e66111",
+            "id": "c6d3965d1a097dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro precession.md",
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Disbarisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro precession"
+              "title": "Disbarisms"
             }
           },
           {
-            "id": "0d17675442dbd2c9",
+            "id": "4025a080deb8298a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro imbalance.md",
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barotrauma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro imbalance"
+              "title": "Barotrauma"
             }
           },
           {
-            "id": "ddf0b9100373ee6c",
+            "id": "afb156beef2b34a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barotitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro apparent drift"
+              "title": "Barotitis"
             }
           },
           {
-            "id": "7d02cfa55908e1e7",
+            "id": "9a25f3353d870deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/gyroscope Horiontally tied.md",
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Barosinusitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gyroscope Horiontally tied"
+              "title": "Barosinusitis"
             }
           },
           {
-            "id": "660e1ceaa98560d5",
+            "id": "b46637fbd381225f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "file": "Human performance/4 The amosphere/8 Disbarismos/Baropatia abdominal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro apparent drift"
+              "title": "Baropatia abdominal"
             }
           },
           {
-            "id": "34e381811ac1c217",
+            "id": "fbcbd4442db0b8bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro apparent drift.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Ball in the center meaning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gyro apparent drift"
+              "title": "Ball in the center meaning"
             }
           },
           {
-            "id": "1b1548a74f5e2368",
+            "id": "b48897d4cb0cce73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Yaw Pitch Roll.md",
+                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Skip slid balance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yaw Pitch Roll"
+              "title": "Skip slid balance"
             }
           },
           {
-            "id": "8830b2b427e068cd",
+            "id": "dcfb91794bf7f936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "file": "Human performance/Enfermedad descompresiva/Factores del desarrollo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate Turn one two and three"
+              "title": "Factores del desarrollo"
             }
           },
           {
-            "id": "35a5aafc47e6c4f0",
+            "id": "ea8ebd62ed87beba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "file": "Human performance/Aceleraciones/Definición.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate Turn one two and three"
+              "title": "Definición"
             }
           },
           {
-            "id": "caa30ff428077556",
+            "id": "69fab30245a6180f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
+                "file": "Human performance/Aceleraciones/Aceleraciones actuando sobre un cuerpo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate Turn one two and three"
+              "title": "Aceleraciones actuando sobre un cuerpo"
             }
           },
           {
-            "id": "4d0d49ffbfbe6e28",
+            "id": "80c5ec8ca56a24ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
+                "file": "Human performance/Aceleraciones/Gs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turn coordinator display"
+              "title": "Gs"
+            }
+          },
+          {
+            "id": "d1a692894a20f82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human performance/Aceleraciones/Vuelo parabolico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vuelo parabolico"
             }
           }
         ],
@@ -446,7 +443,6 @@
       }
     ],
     "currentTab": 0,
-    "pinned": true,
     "pinnedSize": 431
   },
   "right": {
@@ -459,7 +455,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
+            "file": "Human performance/Aceleraciones/Vuelo parabolico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -516,58 +512,58 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d0d49ffbfbe6e28",
+  "active": "d1a692894a20f82b",
   "lastOpenFiles": [
+    "Human performance/Aceleraciones/Gs.md",
+    "Human performance/Aceleraciones/Vuelo parabolico.md",
+    "Human performance/Aceleraciones/Aceleraciones actuando sobre un cuerpo.md",
+    "Human performance/Aceleraciones/Definición.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Rate Turn one two and three.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic North Vs True North.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic variation.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/RRC.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Serviceability of the compass.md",
+    "Human performance/Aceleraciones",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Balance turn indicator.md",
+    "Human performance/Enfermedad descompresiva/Tratamiento.md",
+    "Human performance/Enfermedad descompresiva/Factores del desarrollo.md",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Skip slid balance.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Turn coordinator display.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Turning errors.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Yaw Pitch Roll.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyro precession.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass check swing.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass calibration.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Aperiodicity of the compass marks.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Air driven gyro.md",
+    "Human performance/Enfermedad descompresiva/Enfermedad descompresiva.md",
+    "Human performance/Enfermedad descompresiva",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Angle of bank.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Senos paranasales.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Correcting ball.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Ball in the center meaning.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barotitis.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Disbarisms.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Compression sickness.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barodontalgia.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Baropatia abdominal.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barosinusitis.md",
+    "Human performance/4 The amosphere/8 Disbarismos/Barotrauma.md",
+    "Human performance/4 The amosphere/8 Disbarismos",
     "Instruments/Basic instrumentation/Test temas 10 a 13/Compass deviation.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Agonic line.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Accuracy of magnetic heading indications.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope real wander.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope topple.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Gyroscope vertically tied.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Line of magnetic latitude.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Isogonals.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Location of magnetic poles.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic lines angles.md",
-    "Instruments/Basic instrumentation/Test temas 10 a 13/Magnetic compass Compensation.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Compass swing.md",
+    "Instruments/Basic instrumentation/Test temas 10 a 13/Correction card.md",
+    "Human performance/4 The amosphere/6 Hyperventilation/Hyperventilation.md",
+    "Human performance/4 The amosphere/6 Hyperventilation/Diferencia entre hypoxia e hiperventilación.md",
+    "Human performance/4 The amosphere/7 presurizacíón de cabinas",
+    "IMAGES/Pasted image 20261127164331.png",
+    "Human performance/5 Eye and vision/6 Meausing acuity",
+    "Human performance/5 Eye and vision/5 Defective vision",
+    "Human performance/5 Eye and vision/4 Physiological Limitations",
+    "Human performance/5 Eye and vision/3 Dark and Light adaptation",
+    "Human performance/5 Eye and vision/2 Vision",
+    "Human performance/5 Eye and vision/1 Anatomy of the visual system",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/Airfoil Stall.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
+    "Priniciples of flight/4 Aerodynamic Force/Three dimensionl flow scheme.png",
+    "IMAGES/Pasted image 20261127100641.png",
+    "IMAGES/Pasted image 20261126195537.png",
+    "IMAGES/Pasted image 20261126194733.png",
     "IMAGES/Pasted image 20261126154955.png",
     "IMAGES/Pasted image 20261126152558.png",
     "IMAGES/Pasted image 20261126152333.png",
     "IMAGES/Pasted image 20261126135633.png",
     "IMAGES/Pasted image 20261126134659.png",
-    "IMAGES/Pasted image 20261126134556.png",
-    "IMAGES/Pasted image 20261126134552.png",
-    "IMAGES/Pasted image 20261126134057.png",
-    "Priniciples of flight/4 Aerodynamic Force/Three dimensional flow.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/Three dimensionl flow scheme.png",
-    "Priniciples of flight/4 Aerodynamic Force/Aerofoil basics.canvas",
-    "IMAGES/Pasted image 20261125204204.png",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/5 Appendix 1 secondary precession",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/4 balance indicator",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/3 Turn coordinator",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/2 The turn indicator",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator/1 Rate gyros",
-    "Instruments/Basic instrumentation/17 Turn indicator and Turn Coordinator",
-    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/2 gyro erection methods/Untitled.base",
-    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/3 Errors of the attitude indicator",
-    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/2 gyro erection methods",
-    "Instruments/Basic instrumentation/16 Attitude indicator or artificial horizont/1 Principleof operation and Display",
     "Instruments/Basic instrumentation/13 Gyro Basics/Untitled.canvas",
-    "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/5 Airfoil stall/Airfoil Stall.canvas",
     "Human performance/4 The amosphere/The atmosphere.canvas",
     "Priniciples of flight/4 Aerodynamic Force/2 Two dimensional flow/4 Lift and drag/Two dimensional flow.canvas",
     "Gnav/Temas 1 a 5.canvas",

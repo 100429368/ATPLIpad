@@ -15,14 +15,24 @@
 		{"id":"35c7b60fd9371400","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Wing tip vortex.md","x":1157,"y":1600,"width":483,"height":372},
 		{"id":"f3ac298510c5462f","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Lift distribution among the wing.md","x":2400,"y":2080,"width":424,"height":215},
 		{"id":"d5721d39c7ff0239","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Span wise Flow.md","x":541,"y":2120,"width":400,"height":400},
-		{"id":"c18d80ecdaa20324","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Downwash Sheet.md","x":1199,"y":2120,"width":400,"height":400},
 		{"id":"073d3efc804dcc5a","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/AoA induced.md","x":2612,"y":1687,"width":440,"height":200},
 		{"id":"49fd44700deadb6a","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced speed because of a vortex.md","x":1805,"y":2053,"width":503,"height":392},
 		{"id":"d1766950f519ee55","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Distribution of induced speed in a wing dibujo.md","x":1856,"y":2540,"width":400,"height":204},
 		{"id":"d6fbf3a112c0e3d7","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Induced drag.md","x":2904,"y":2080,"width":463,"height":169},
+		{"id":"c18d80ecdaa20324","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/Downwash Sheet.md","x":1199,"y":2120,"width":400,"height":400},
 		{"id":"766c06955ee94513","type":"text","text":"Impact of 3D effects:\nLIFT DECREASES\nDRAG INCREASES: New component of drag\nDI=Induced drag","x":880,"y":2587,"width":378,"height":157,"color":"1"},
 		{"id":"12602e12e8988a9b","type":"text","text":"Reminder\nspeed distribution comes from AOA and chamber.","x":840,"y":2839,"width":426,"height":107,"color":"5"},
-		{"id":"74d958b6bfb4660b","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/The effective airflow.md","x":2612,"y":2480,"width":524,"height":560}
+		{"id":"74d958b6bfb4660b","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Induced Drag/The effective airflow.md","x":2612,"y":2480,"width":524,"height":560},
+		{"id":"b89f5e436d1421f3","x":1627,"y":4556,"width":413,"height":164,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Deposits in the tip.md"},
+		{"id":"104ea261c679a2d6","x":2072,"y":4556,"width":388,"height":164,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Difficult airflow in the tip.md"},
+		{"id":"f8dbbbdf9bc746ff","x":2517,"y":4556,"width":400,"height":400,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing Tip Modification/Winglet.md"},
+		{"id":"a2becfb8fdfbd78c","type":"file","file":"Priniciples of flight/4 Aerodynamic Force/4 Wing Stall/Effects/Change of effective AoA along the Span.md","x":3031,"y":4361,"width":605,"height":521},
+		{"id":"ce6e6e7a57ad468b","x":1280,"y":3761,"width":480,"height":600,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Drawings.md"},
+		{"id":"0ba47cca82c45b01","x":1925,"y":3561,"width":400,"height":400,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Eliptic wing.md"},
+		{"id":"dd37f253e386224a","x":1925,"y":4061,"width":400,"height":139,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Rectangular wing.md"},
+		{"id":"18c892b6b2679f7c","x":640,"y":3558,"width":400,"height":400,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist aerodynamical.md"},
+		{"id":"576347ca9016ff04","x":640,"y":4019,"width":400,"height":619,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing twist/Wing Twist washout.md"},
+		{"id":"0da1cf5489bae28f","x":1945,"y":4261,"width":360,"height":200,"type":"file","file":"Priniciples of flight/4 Aerodynamic Force/3 Three dimensional flow/2 3Dflow/Reduce Induced Drag/Design/Wing design/Tappered wing.md"}
 	],
 	"edges":[
 		{"id":"280ad399914d7f3e","fromNode":"35c7b60fd9371400","fromSide":"right","toNode":"f12127bb003628c9","toSide":"left"},
@@ -36,6 +46,11 @@
 		{"id":"c2f3a5f4d5523da2","fromNode":"35c7b60fd9371400","fromSide":"bottom","toNode":"d5721d39c7ff0239","toSide":"top"},
 		{"id":"8b9ac3aae9c56160","fromNode":"f3ac298510c5462f","fromSide":"bottom","toNode":"74d958b6bfb4660b","toSide":"top"},
 		{"id":"915913100b189812","fromNode":"d6fbf3a112c0e3d7","fromSide":"bottom","toNode":"74d958b6bfb4660b","toSide":"top"},
-		{"id":"aab25329d78cb249","fromNode":"ed11d10695fb0a2e","fromSide":"right","toNode":"63dbdf5b6e033b2b","toSide":"left"}
+		{"id":"aab25329d78cb249","fromNode":"ed11d10695fb0a2e","fromSide":"right","toNode":"63dbdf5b6e033b2b","toSide":"left"},
+		{"id":"e777183acccdb268","fromNode":"18c892b6b2679f7c","fromSide":"right","toNode":"ce6e6e7a57ad468b","toSide":"left"},
+		{"id":"21a892639f391c91","fromNode":"576347ca9016ff04","fromSide":"right","toNode":"ce6e6e7a57ad468b","toSide":"left"},
+		{"id":"d85d38686d7fdbe9","fromNode":"ce6e6e7a57ad468b","fromSide":"right","toNode":"0ba47cca82c45b01","toSide":"left"},
+		{"id":"832144ad5f09583c","fromNode":"ce6e6e7a57ad468b","fromSide":"right","toNode":"dd37f253e386224a","toSide":"left"},
+		{"id":"512e35dd0d64ab90","fromNode":"ce6e6e7a57ad468b","fromSide":"right","toNode":"0da1cf5489bae28f","toSide":"left"}
 	]
 }

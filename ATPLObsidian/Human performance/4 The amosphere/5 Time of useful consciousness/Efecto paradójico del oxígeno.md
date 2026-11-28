@@ -1,0 +1,1 @@
+Empeoramiento transitorio en caso de darle oxigeno de repente. 
